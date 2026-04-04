@@ -1,0 +1,667 @@
+{
+  "meta": {
+    "siteName": "Elite Horizon Catering",
+    "tagline": "Penyelesaian Katering & Dapur Pusat Bersepadu",
+    "home": {
+      "title": "Elite Horizon Catering | Penyelesaian Katering & Dapur Pusat – Makkah",
+      "description": "Kumpulan katering terkemuka di Arab Saudi yang melayani Haji, Umrah, hotel, penjagaan kesihatan, pendidikan dan pelanggan institusi dari dapur pusat kami di Makkah.",
+      "keywords": "katering Arab Saudi, dapur pusat Makkah, perkhidmatan katering Haji, katering institusi, pengeluaran makanan Saudi"
+    },
+    "about": {
+      "title": "Tentang Kami | Elite Horizon Catering",
+      "description": "Ketahui tentang Elite Horizon Catering – syarikat katering dan pengeluaran makanan bersepadu berskala besar beribu pejabat di Makkah, Arab Saudi.",
+      "keywords": "tentang elite horizon catering, syarikat katering Makkah, kumpulan katering Saudi"
+    },
+    "services": {
+      "title": "Perkhidmatan Kami | Elite Horizon Catering",
+      "description": "Perkhidmatan katering komprehensif termasuk katering massa, makanan sihat, bakeri, teknologi makanan dan perundingan.",
+      "keywords": "perkhidmatan katering Arab Saudi, katering massa, makanan sihat, bakeri, teknologi makanan"
+    },
+    "sectors": {
+      "title": "Sektor Yang Kami Layani | Elite Horizon Catering",
+      "description": "Elite Horizon Catering melayani sektor Haji & Umrah, hotel, penjagaan kesihatan, pendidikan, perindustrian, acara, amal dan kem terpencil.",
+      "keywords": "katering Haji, perkhidmatan makanan Umrah, katering hotel Arab Saudi, katering penjagaan kesihatan"
+    },
+    "facility": {
+      "title": "Kemudahan Dapur Pusat | Elite Horizon Catering",
+      "description": "Terokai kemudahan dapur pusat bertingkat kami di Makkah dengan zon pengeluaran canggih, penyimpanan sejuk dan makmal kualiti.",
+      "keywords": "dapur pusat Makkah, kemudahan pengeluaran makanan, dapur pusat Arab Saudi"
+    },
+    "equipment": {
+      "title": "Peralatan & Keupayaan | Elite Horizon Catering",
+      "description": "Peralatan memasak, penyejukan, bakeri dan buffet gred industri di dapur pusat Elite Horizon Catering.",
+      "keywords": "peralatan katering, peralatan dapur industri, peralatan pengeluaran makanan Arab Saudi"
+    },
+    "gallery": {
+      "title": "Galeri | Elite Horizon Catering",
+      "description": "Pameran visual kemudahan, operasi, pengeluaran makanan dan perkhidmatan katering Elite Horizon Catering.",
+      "keywords": "galeri katering, foto kemudahan dapur, imej pengeluaran makanan"
+    },
+    "contact": {
+      "title": "Hubungi Kami | Elite Horizon Catering",
+      "description": "Hubungi Elite Horizon Catering untuk cadangan katering, pertanyaan perkhidmatan dan peluang perkongsian di Arab Saudi.",
+      "keywords": "hubungi syarikat katering Makkah, pertanyaan katering Arab Saudi, cadangan katering"
+    }
+  },
+  "nav": {
+    "home": "Utama",
+    "about": "Tentang Kami",
+    "services": "Perkhidmatan",
+    "sectors": "Sektor",
+    "facility": "Kemudahan",
+    "equipment": "Peralatan",
+    "gallery": "Galeri",
+    "contact": "Hubungi Kami",
+    "getProposal": "Minta Cadangan"
+  },
+  "hero": {
+    "headline": "Penyelesaian Katering & Dapur Pusat Bersepadu",
+    "subheadline": "Kumpulan pengeluaran makanan dan katering berskala besar beribu pejabat di Makkah, Arab Saudi — melayani institusi, hotel, kerajaan, dan jemaah Haji & Umrah dengan ketepatan dan skala.",
+    "ctaProposal": "Minta Cadangan",
+    "ctaContact": "Hubungi Kami",
+    "badge": "Makkah, Arab Saudi",
+    "stats": {
+      "meals": "Hidangan/Hari",
+      "sectors": "Sektor Dilayani",
+      "years": "Tahun Kecemerlangan",
+      "certifications": "Pensijilan"
+    }
+  },
+  "about": {
+    "sectionLabel": "Siapa Kami",
+    "headline": "Dibina untuk Skala. Direka untuk Kecemerlangan.",
+    "body": "Elite Horizon Catering ialah kumpulan katering dan pengeluaran makanan bersepadu yang beribu pejabat di Makkah, Arab Saudi. Kami mengendalikan dapur pusat bertingkat canggih yang mampu menghasilkan ribuan hidangan sehari dalam format panas, sejuk, makanan siap saji, dan kepakaran. Operasi kami merangkumi musim Haji dan Umrah, hospitaliti sepanjang tahun, penjagaan kesihatan, pendidikan, dan katering institusi.",
+    "keyPoints": [
+      "Ibu pejabat di Makkah dengan kepakaran serantau yang mendalam",
+      "Dapur pusat bersepadu dengan keupayaan pengeluaran-ke-penghantaran penuh",
+      "Katering pelbagai sektor meliputi 8+ vertikal industri",
+      "Protokol keselamatan makanan dan pengurusan kualiti selaras HACCP"
+    ],
+    "learnMore": "Ketahui Lebih Lanjut",
+    "fullPage": {
+      "headline": "Tentang Elite Horizon Catering",
+      "intro": "Elite Horizon Catering adalah salah satu operasi katering dan dapur pusat bersepadu yang paling berkemampuan di Arab Saudi, beribu pejabat di jantung Makkah.",
+      "story": "Diasaskan dengan mandat yang jelas untuk mentakrifkan semula pengeluaran makanan dan penghantaran pada skala institusi, kami menggabungkan infrastruktur dapur canggih, kepakaran sains makanan, dan pengetahuan sektor mendalam.",
+      "vision": {
+        "label": "Visi Kami",
+        "text": "Menjadi rakan katering bersepadu yang paling dipercayai di GCC — menggabungkan pengeluaran skala industri, ketepatan pemakanan, dan kebolehpercayaan operasi."
+      },
+      "mission": {
+        "label": "Misi Kami",
+        "text": "Menyampaikan penyelesaian makanan yang selamat, berkhasiat, dan berkualiti tinggi merentasi semua sektor katering melalui proses berasaskan teknologi dan pasukan berdedikasi."
+      },
+      "values": {
+        "label": "Nilai Kami",
+        "items": [
+          "Integriti",
+          "Ketepatan",
+          "Skala",
+          "Keselamatan",
+          "Inovasi"
+        ]
+      },
+      "whyUs": {
+        "headline": "Mengapa Pelanggan Memilih Kami",
+        "points": [
+          {
+            "title": "Skala Operasi",
+            "desc": "Keupayaan untuk melayani ribuan hidangan sehari dari kemudahan bersepadu tunggal — tanpa kompromi pada kualiti."
+          },
+          {
+            "title": "Pematuhan Kawal Selia",
+            "desc": "Selaras dengan standard SFDA Arab Saudi, prinsip HACCP, dan rangka kerja keselamatan makanan antarabangsa."
+          },
+          {
+            "title": "Keupayaan Hujung-ke-Hujung",
+            "desc": "Dari perolehan bahan mentah dan pengeluaran dapur pusat hingga logistik rantai sejuk dan penghantaran perkhidmatan di tapak."
+          },
+          {
+            "title": "Kepakaran Sektor",
+            "desc": "Protokol khusus untuk Haji, penjagaan kesihatan, pendidikan, hotel, dan katering industri — masing-masing dengan keperluan unik."
+          }
+        ]
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "Apa Yang Kami Lakukan",
+    "headline": "Lima Lini Perkhidmatan Teras",
+    "subheadline": "Setiap lini perkhidmatan dibina dengan zon pengeluaran khusus, pasukan pakar, dan protokol penghantaran yang disesuaikan.",
+    "items": [
+      {
+        "id": "consulting",
+        "title": "Perundingan & Penyelidikan",
+        "shortDesc": "Perundingan perkhidmatan makanan strategik, kejuruteraan menu, dan penyelidikan operasi untuk organisasi katering.",
+        "fullDesc": "Kami menyediakan perkhidmatan perundingan pakar kepada pengendali perkhidmatan makanan, institusi, dan badan kerajaan di seluruh Arab Saudi.",
+        "features": [
+          "Kajian kemungkinan katering dan audit operasi",
+          "Kejuruteraan menu dan analisis pemakanan",
+          "Reka bentuk sistem pengurusan keselamatan makanan",
+          "Penilaian pembekal dan strategi perolehan",
+          "Latihan kakitangan dan pelaksanaan HACCP"
+        ]
+      },
+      {
+        "id": "food-tech",
+        "title": "Penyelesaian Teknologi Makanan",
+        "shortDesc": "Pemprosesan makanan canggih, pembangunan produk, dan pengoptimuman pengeluaran berasaskan teknologi.",
+        "fullDesc": "Bahagian teknologi makanan kami menggunakan sains makanan industri untuk meningkatkan kecekapan pengeluaran, melanjutkan jangka hayat, dan mengekalkan kualiti produk yang konsisten.",
+        "features": [
+          "Pembangunan makanan siap saji dan makanan mudah",
+          "Pemanjangan jangka hayat dan R&D pembungkusan",
+          "Profiling pemakanan dan pelabelan yang patuh",
+          "Pengoptimuman kecekapan lini pengeluaran",
+          "Jaminan kualiti dan ujian makmal"
+        ]
+      },
+      {
+        "id": "mass-catering",
+        "title": "Perkhidmatan Katering Massa",
+        "shortDesc": "Hidangan panas berskala besar, pek ransum kering, dan makanan siap saji untuk institusi, acara, dan operasi Haji.",
+        "fullDesc": "Perkhidmatan utama kami — katering massa pada skala industri. Kami menghasilkan dan menghantar ribuan hidangan sehari dalam format hidangan panas, ransum kering, dan makanan siap saji.",
+        "features": [
+          "Pengeluaran hidangan panas dengan penghantaran hari yang sama",
+          "Pemasangan ransum kering dan hidangan yang dibungkus",
+          "Pembuatan makanan siap saji dengan jangka hayat yang dilanjutkan",
+          "Operasi katering bermusim Haji dan Umrah",
+          "Kontrak pemakanan tentera, kerajaan, dan institusi"
+        ]
+      },
+      {
+        "id": "healthy-meals",
+        "title": "Hidangan Sihat & Diet",
+        "shortDesc": "Program hidangan yang direka secara pemakanan untuk penjagaan kesihatan, kesejahteraan korporat, dan keperluan diet khusus.",
+        "fullDesc": "Program hidangan yang direka dengan tepat dibangunkan bekerjasama dengan ahli diet dan saintis pemakanan. Kami melayani hospital, program kesejahteraan korporat, pemakanan sukan, dan individu dengan keperluan diet tertentu.",
+        "features": [
+          "Program hidangan diet klinikal untuk kemudahan penjagaan kesihatan",
+          "Pelan hidangan kesejahteraan korporat dan eksekutif",
+          "Menu diet diabetes, jantung, dan ginjal",
+          "Pelan hidangan pemakanan sukan dan prestasi tinggi",
+          "Pengeluaran kawalan alergen dan halal bersijil"
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Bakeri & Pencuci Mulut",
+        "shortDesc": "Pengeluaran bakeri industri — roti, pastri, kuih-muih Arab, dan pencuci mulut pada skala komersial.",
+        "fullDesc": "Kemudahan bakeri khusus yang menghasilkan pelbagai roti, pastri, kuih-muih Arab, dan produk pencuci mulut pada skala komersial.",
+        "features": [
+          "Pengeluaran roti artisan dan industri",
+          "Pembuatan kuih-muih Arab dan pastri",
+          "Program kek dan pencuci mulut tersuai untuk hotel",
+          "Bekalan pastri sarapan dan buffet",
+          "Lini produk bakeri beku dan segar"
+        ]
+      }
+    ],
+    "learnMore": "Terokai Perkhidmatan Ini"
+  },
+  "sectors": {
+    "sectionLabel": "Siapa Yang Kami Layani",
+    "headline": "Lapan Sektor. Satu Rakan Dipercayai.",
+    "subheadline": "Kami membina sistem katering khusus sektor — bukan penyelesaian generik. Setiap vertikal mempunyai protokol, keperluan pematuhan, dan tuntutan operasi tersendiri.",
+    "items": [
+      {
+        "id": "hajj-umrah",
+        "title": "Haji & Umrah",
+        "shortDesc": "Memberi makan jutaan jemaah dengan ketepatan, pematuhan, dan kepekaan budaya semasa perhimpunan tahunan terbesar di dunia.",
+        "challenge": "Operasi Haji memerlukan pengeluaran kapasiti puncak di bawah tekanan masa yang melampau, melayani jutaan jemaah di tapak yang tersebar secara geografi.",
+        "solution": "Kami menggunakan pasukan pengeluaran pelbagai unit, logistik pra-kedudukan, dan lini pembungkusan berskala untuk menyampaikan hidangan yang patuh tepat pada masanya."
+      },
+      {
+        "id": "hotels",
+        "title": "Hotel & Hospitaliti",
+        "shortDesc": "Bekalan makanan premium dan pengurusan katering untuk hotel 4 dan 5 bintang di seluruh rantau.",
+        "challenge": "Hotel memerlukan kualiti yang konsisten, menu yang fleksibel, dan persembahan makanan berjenama pada volum yang tidak dapat diramalkan.",
+        "solution": "Kami menyediakan program katering hotel khusus dengan penyesuaian menu, jadual pengeluaran harian, dan standard persembahan berjenama."
+      },
+      {
+        "id": "healthcare",
+        "title": "Penjagaan Kesihatan & Perubatan",
+        "shortDesc": "Program pemakanan klinikal dan perkhidmatan hidangan hospital yang memenuhi SFDA dan standard diet antarabangsa.",
+        "challenge": "Katering penjagaan kesihatan mesti memenuhi garis panduan pemakanan yang ketat, kawalan alergen, dan protokol keselamatan pesakit.",
+        "solution": "Menu kami yang dibangunkan oleh ahli diet klinikal dihasilkan dalam persekitaran terkawal dengan kebolehkesanan penuh dan proses bersijil HACCP."
+      },
+      {
+        "id": "education",
+        "title": "Pendidikan",
+        "shortDesc": "Program hidangan sekolah dan universiti yang direka untuk nilai pemakanan, kecekapan kos, dan pematuhan.",
+        "challenge": "Pemberian makan sekolah memerlukan pengeluaran bervolum tinggi dan kos terkawal dengan pemakanan sesuai kanak-kanak dan pematuhan kawal selia.",
+        "solution": "Kami mereka bentuk program hidangan sekolah yang seimbang secara pemakanan dan sesuai usia dengan sistem penghantaran yang cekap."
+      },
+      {
+        "id": "industrial",
+        "title": "Tapak Industri & Terpencil",
+        "shortDesc": "Katering kem terpencil dan tenaga kerja industri dengan infrastruktur logistik penuh.",
+        "challenge": "Tapak industri terpencil memerlukan pemberian makan yang boleh dipercayai dan bervolum tinggi dengan pergantungan infrastruktur yang minimum.",
+        "solution": "Kami menggunakan sistem dapur mudah alih dan armada pengangkutan berpenebat untuk melayani tapak industri dan kem terpencil di seluruh Arab Saudi."
+      },
+      {
+        "id": "events",
+        "title": "Acara & Fungsi",
+        "shortDesc": "Katering acara berskala besar untuk persidangan, fungsi kerajaan, acara sukan, dan perhimpunan korporat.",
+        "challenge": "Katering acara memerlukan reka bentuk menu yang fleksibel, masa yang tepat, dan penggunaan pantas bervolum besar.",
+        "solution": "Pasukan acara kami merancang, menghasilkan, dan menghantar pakej perkhidmatan makanan lengkap — dari persediaan hingga perkhidmatan hingga pembongkaran."
+      },
+      {
+        "id": "charity",
+        "title": "Program Amal & Sosial",
+        "shortDesc": "Program iftar, pemberian makan komuniti, dan pengedaran makanan amal pada skala.",
+        "challenge": "Program makanan amal menuntut kecekapan kos tanpa mengorbankan pemakanan, integriti halal, atau kesesuaian budaya.",
+        "solution": "Kami mengurus pengeluaran dan pengedaran hidangan amal bervolum tinggi untuk program Iftar Ramadan, dapur komuniti, dan usaha bantuan bencana."
+      },
+      {
+        "id": "remote-camps",
+        "title": "Kem Terpencil & Tentera",
+        "shortDesc": "Infrastruktur katering khusus untuk pangkalan tentera, kem pembinaan, dan pemasangan kerajaan terpencil.",
+        "challenge": "Katering tentera dan kem memerlukan pematuhan keselamatan yang ketat, kualiti yang konsisten, dan logistik berskala besar.",
+        "solution": "Kami menyediakan kontrak katering kem khusus dengan pasukan pengurusan di tapak, menu khusus, dan protokol keselamatan makanan standard tentera."
+      }
+    ]
+  },
+  "facility": {
+    "sectionLabel": "Infrastruktur Kami",
+    "headline": "Dapur Pusat Dibina untuk Skala Industri",
+    "subheadline": "Kemudahan Makkah kami dibina secara khusus untuk pengeluaran makanan bervolum tinggi — menggabungkan zon pemprosesan canggih, infrastruktur rantai sejuk, dan makmal kawalan kualiti di bawah satu operasi bersepadu.",
+    "zones": [
+      {
+        "id": "production",
+        "title": "Zon Pengeluaran",
+        "desc": "Dewan memasak khusus yang dilengkapi dengan relau industri, periuk berlapis wap, ketuhar kombi, dan sistem pembahagian automatik."
+      },
+      {
+        "id": "cold-storage",
+        "title": "Penyimpanan Sejuk & Penyejukan",
+        "desc": "Penyimpanan sejuk berbilang ruang dengan zon suhu berbeza untuk bahan mentah, produk separuh siap, dan barangan siap."
+      },
+      {
+        "id": "packaging",
+        "title": "Pembungkusan & Pemasangan",
+        "desc": "Lini pembungkusan berkelajuan tinggi untuk penyegelan dulang, pembungkusan vakum, dan pemasangan ransum kering."
+      },
+      {
+        "id": "laboratory",
+        "title": "Makmal Kawalan Kualiti",
+        "desc": "Makmal keselamatan makanan dalaman yang menjalankan ujian mikrobiologi, kimia, dan deria pada bahan mentah masuk dan produk siap."
+      },
+      {
+        "id": "logistics",
+        "title": "Logistik & Penghantaran",
+        "desc": "Zon penghantaran khusus dengan teluk pemuatan terkawal suhu, sistem pengurusan armada, dan penjejakan penghantaran masa nyata."
+      }
+    ],
+    "fullPage": {
+      "intro": "Kemudahan dapur pusat Elite Horizon Catering di Makkah adalah tulang belakang operasi kami. Merentangi berbilang tingkat dan zon pengeluaran yang direka khusus, kemudahan ini menyepadukan setiap langkah rantai pengeluaran makanan.",
+      "floors": {
+        "headline": "Gambaran Keseluruhan Kemudahan Berbilang Tingkat",
+        "items": [
+          {
+            "level": "Tingkat Bawah",
+            "desc": "Pengambilan bahan mentah, penyimpanan kering, penyimpanan sejuk, dan zon penghantaran logistik."
+          },
+          {
+            "level": "Tingkat Pertama",
+            "desc": "Dewan memasak utama, pengeluaran hidangan panas, dan penyediaan sup & sos."
+          },
+          {
+            "level": "Tingkat Kedua",
+            "desc": "Penyediaan sejuk, pemasangan salad, tenusu, dan pengeluaran bakeri."
+          },
+          {
+            "level": "Tingkat Ketiga",
+            "desc": "Lini pembungkusan dan penyegelan dulang, pelabelan, dan penyimpanan barangan siap."
+          },
+          {
+            "level": "Tingkat Makmal",
+            "desc": "Makmal kawalan kualiti, ujian mikrobiologi, dan pengurusan keselamatan makanan."
+          }
+        ]
+      },
+      "zones": {
+        "label": "Infrastruktur Pengeluaran",
+        "headline": "Pecahan Zon demi Zon"
+      }
+    }
+  },
+  "metrics": {
+    "sectionLabel": "Skala Operasi",
+    "headline": "Infrastruktur Yang Berkata Sendiri",
+    "items": [
+      {
+        "value": 4,
+        "label": "Tingkat Pengeluaran",
+        "suffix": ""
+      },
+      {
+        "value": 12,
+        "label": "Stesen Memasak",
+        "suffix": "+"
+      },
+      {
+        "value": 8,
+        "label": "Bilik Sejuk",
+        "suffix": ""
+      },
+      {
+        "value": 500,
+        "label": "Unit Peralatan",
+        "suffix": "+"
+      },
+      {
+        "value": 30,
+        "label": "Kenderaan Penghantaran",
+        "suffix": "+"
+      },
+      {
+        "value": 50000,
+        "label": "Kapasiti Hidangan Harian",
+        "suffix": "+"
+      }
+    ]
+  },
+  "process": {
+    "sectionLabel": "Cara Kami Bekerja",
+    "headline": "Dari Sumber ke Perkhidmatan",
+    "subheadline": "Setiap hidangan yang kami hasilkan mengikuti proses ketat dan boleh dikesan yang direka untuk keselamatan, konsistensi, dan skala.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Bahan Mentah",
+        "desc": "Perolehan pembekal bersijil dengan pemeriksaan kualiti masuk dan dokumentasi kebolehkesanan."
+      },
+      {
+        "id": 2,
+        "title": "Penyediaan",
+        "desc": "Pra-pemprosesan terkawal — mencuci, memotong, merendam — di zon penyediaan khusus."
+      },
+      {
+        "id": 3,
+        "title": "Memasak",
+        "desc": "Memasak industri menggunakan peralatan yang dikalibrasi dengan pemantauan masa-suhu dan rekod kumpulan."
+      },
+      {
+        "id": 4,
+        "title": "Pembungkusan",
+        "desc": "Pembahagian dan penyegelan higienik di lini pembungkusan automatik dengan pemeriksaan berat dan label."
+      },
+      {
+        "id": 5,
+        "title": "Rantai Sejuk",
+        "desc": "Penyejukan cepat dan penyimpanan bersuhu terkawal mengekalkan integriti produk sehingga penghantaran."
+      },
+      {
+        "id": 6,
+        "title": "Penghantaran",
+        "desc": "Penghantaran armada berpendingin dan berpenebat dengan penjejakan GPS dan dokumentasi bukti penghantaran."
+      },
+      {
+        "id": 7,
+        "title": "Perkhidmatan",
+        "desc": "Penghantaran perkhidmatan di tapak, persediaan buffet, atau pengedaran langsung — seperti yang ditentukan oleh kontrak pelanggan."
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Pematuhan & Kepercayaan",
+    "headline": "Bersijil. Patuh. Dipercayai.",
+    "subheadline": "Operasi kami selaras dengan standard keselamatan makanan Saudi dan antarabangsa.",
+    "items": [
+      {
+        "title": "Lesen SFDA",
+        "desc": "Kemudahan pengeluaran makanan bersijil Pihak Berkuasa Makanan dan Dadah Arab Saudi."
+      },
+      {
+        "title": "Pematuhan HACCP",
+        "desc": "Sistem Analisis Bahaya dan Titik Kawalan Kritikal dilaksanakan sepenuhnya."
+      },
+      {
+        "title": "ISO 22000",
+        "desc": "Sistem pengurusan keselamatan makanan memenuhi standard antarabangsa."
+      },
+      {
+        "title": "Pensijilan Halal",
+        "desc": "Pengeluaran halal sepenuhnya bersijil dari bahan mentah hingga produk siap."
+      },
+      {
+        "title": "Lesen Majlis Perbandaran",
+        "desc": "Premis pengeluaran makanan komersial yang diluluskan Majlis Perbandaran Makkah."
+      },
+      {
+        "title": "Pematuhan MOH",
+        "desc": "Pematuhan standard diet dan pemakanan Kementerian Kesihatan."
+      }
+    ]
+  },
+  "equipment": {
+    "sectionLabel": "Keupayaan Kami",
+    "headline": "Peralatan Gred Industri. Keputusan Gred Profesional.",
+    "subheadline": "Dapur pusat kami dilengkapi dengan jentera gred komersial merentasi setiap kategori pengeluaran.",
+    "categories": [
+      {
+        "id": "cooking",
+        "title": "Peralatan Memasak",
+        "items": [
+          {
+            "name": "Relau Gas Industri",
+            "desc": "Relau berbilang pembakar berat untuk memasak bervolum tinggi."
+          },
+          {
+            "name": "Periuk Berlapis Wap",
+            "desc": "Kapasiti 200–500 liter untuk sup, sos, dan nasi."
+          },
+          {
+            "name": "Ketuhar Kombi",
+            "desc": "Ketuhar wap-konveksi gabungan boleh program."
+          },
+          {
+            "name": "Kuali Condong",
+            "desc": "Kuali berformat besar untuk daging, rebusan, dan memasak pukal."
+          },
+          {
+            "name": "Penggoreng Dalam",
+            "desc": "Penggoreng industri dengan penapisan dan kawalan suhu automatik."
+          },
+          {
+            "name": "Periuk Tekanan",
+            "desc": "Unit memasak tekanan komersial berkapasiti besar."
+          }
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Peralatan Bakeri",
+        "items": [
+          {
+            "name": "Ketuhar Dek",
+            "desc": "Ketuhar berbilang dek berasas batu untuk roti dan pastri."
+          },
+          {
+            "name": "Pengadun Doh Lingkaran",
+            "desc": "Penyediaan doh berkapasiti tinggi untuk pengeluaran roti."
+          },
+          {
+            "name": "Mesin Lembaran",
+            "desc": "Peralatan lembaran dan laminasi doh automatik."
+          },
+          {
+            "name": "Kabinet Pembuktian",
+            "desc": "Kebuk penapaian terkawal suhu dan kelembapan."
+          },
+          {
+            "name": "Pendeposi & Acuan",
+            "desc": "Peralatan kawalan bahagian dan pembentukan automatik."
+          }
+        ]
+      },
+      {
+        "id": "refrigeration",
+        "title": "Penyejukan & Rantai Sejuk",
+        "items": [
+          {
+            "name": "Bilik Sejuk Masuk",
+            "desc": "Bilik sejuk berformat besar untuk bahan mentah (0–4°C)."
+          },
+          {
+            "name": "Penyejuk Letupan",
+            "desc": "Penyejukan cepat dari +70°C ke +3°C dalam masa kurang 90 minit."
+          },
+          {
+            "name": "Pembekuan Letupan",
+            "desc": "Unit pembekuan dalam untuk pemeliharaan produk jangka panjang."
+          },
+          {
+            "name": "Unit Paparan Berpendingin",
+            "desc": "Paparan sejuk sedia servis untuk buffet dan pengedaran."
+          },
+          {
+            "name": "Pemantauan Suhu",
+            "desc": "Pengelogan suhu berasaskan IoT 24/7 merentasi semua zon sejuk."
+          }
+        ]
+      },
+      {
+        "id": "buffet",
+        "title": "Peralatan Buffet & Perkhidmatan",
+        "items": [
+          {
+            "name": "Hidangan Pemanasan",
+            "desc": "Sistem pemanasan elektrik dan gel keluli tahan karat."
+          },
+          {
+            "name": "Unit Bain-Marie",
+            "desc": "Paparan panas elektrik untuk pegangan panas dan perkhidmatan."
+          },
+          {
+            "name": "Bekas Pengangkutan Berpenebat",
+            "desc": "Troli pengangkutan makanan berpenebat serasi GN."
+          },
+          {
+            "name": "Kaunter Perkhidmatan",
+            "desc": "Kaunter buffet keluli tahan karat modular untuk perkhidmatan acara dan institusi."
+          }
+        ]
+      },
+      {
+        "id": "infrastructure",
+        "title": "Infrastruktur Keluli Tahan Karat",
+        "items": [
+          {
+            "name": "Bangku Kerja & Meja Penyediaan",
+            "desc": "Permukaan penyediaan keluli tahan karat gred 316 di seluruh kemudahan."
+          },
+          {
+            "name": "Sistem Rak",
+            "desc": "Penyimpanan keluli tahan karat dipasang dinding dan berdiri bebas."
+          },
+          {
+            "name": "Cuci Periuk & Pinggan",
+            "desc": "Mesin basuh pinggan industri rak dan terowong."
+          },
+          {
+            "name": "Kanopi Ekzos",
+            "desc": "Pengudaraan pengekstrakan tinggi di atas semua stesen memasak."
+          },
+          {
+            "name": "Saliran Lantai",
+            "desc": "Sistem saliran saluran keluli tahan karat di seluruh zon pengeluaran."
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "sectionLabel": "Kerja Kami",
+    "headline": "Kemudahan. Operasi. Output.",
+    "subheadline": "Rekod visual infrastruktur, proses pengeluaran, dan operasi katering kami.",
+    "viewAll": "Lihat Galeri Penuh",
+    "categories": [
+      "Semua",
+      "Kemudahan",
+      "Pengeluaran",
+      "Katering",
+      "Acara",
+      "Penghantaran"
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Hubungi Kami",
+    "headline": "Mulakan Perbualan",
+    "subheadline": "Sama ada anda memerlukan cadangan, lawatan tapak, atau hanya mempunyai soalan — pasukan kami sedia untuk bertindak balas dalam masa 24 jam.",
+    "info": {
+      "phone": "+966 XX XXX XXXX",
+      "email": "info@elitehorizoncatering.com",
+      "whatsapp": "+966 XX XXX XXXX",
+      "address": "Makkah, Kerajaan Arab Saudi"
+    },
+    "form": {
+      "name": "Nama Penuh",
+      "namePlaceholder": "Nama penuh anda",
+      "company": "Syarikat / Organisasi",
+      "companyPlaceholder": "Nama organisasi anda",
+      "sector": "Sektor",
+      "sectorPlaceholder": "Pilih sektor anda",
+      "serviceType": "Perkhidmatan Diperlukan",
+      "serviceTypePlaceholder": "Pilih jenis perkhidmatan",
+      "whatsapp": "Nombor WhatsApp",
+      "whatsappPlaceholder": "+966 XX XXX XXXX",
+      "message": "Mesej",
+      "messagePlaceholder": "Huraikan keperluan katering, volum, lokasi, dan jadual anda...",
+      "submit": "Hantar Pertanyaan",
+      "submitting": "Menghantar...",
+      "success": "Terima kasih! Kami akan menghubungi anda dalam masa 24 jam.",
+      "error": "Ada yang tidak kena. Sila cuba lagi atau hubungi kami secara langsung.",
+      "sectors": [
+        "Haji & Umrah",
+        "Hotel & Hospitaliti",
+        "Penjagaan Kesihatan",
+        "Pendidikan",
+        "Industri & Terpencil",
+        "Acara & Fungsi",
+        "Program Amal",
+        "Tentera & Kem",
+        "Lain-lain"
+      ],
+      "serviceTypes": [
+        "Katering Massa",
+        "Hidangan Sihat & Diet",
+        "Bakeri & Pencuci Mulut",
+        "Perundingan",
+        "Teknologi Makanan",
+        "Kontrak Katering Penuh",
+        "Lain-lain"
+      ]
+    },
+    "whatsappBtn": "Chat di WhatsApp",
+    "callBtn": "Hubungi Kami Sekarang",
+    "emailBtn": "Hantar E-mel",
+    "inquiryTitle": "Hantar Pertanyaan",
+    "inquiryDesc": "Lengkapkan borang di bawah dan pasukan kami akan bertindak balas dalam masa 24 jam dengan cadangan yang disesuaikan.",
+    "infoTitle": "Maklumat Hubungan",
+    "responseTimeLabel": "Masa Respons",
+    "responseTimeValue": "Dalam masa 24 jam",
+    "mapLocation": "Makkah, Arab Saudi",
+    "mapAvailable": "Integrasi peta tersedia"
+  },
+  "footer": {
+    "description": "Elite Horizon Catering ialah kumpulan katering bersepadu dan dapur pusat berskala besar beribu pejabat di Makkah, Arab Saudi — melayani institusi, hospitaliti, Haji & Umrah, dan sektor industri.",
+    "links": {
+      "company": "Syarikat",
+      "services": "Perkhidmatan",
+      "sectors": "Sektor",
+      "legal": "Undang-undang"
+    },
+    "copyright": "© 2024 Elite Horizon Catering. Hak cipta terpelihara.",
+    "location": "Makkah, Kerajaan Arab Saudi"
+  },
+  "common": {
+    "readMore": "Baca Lagi",
+    "viewAll": "Lihat Semua",
+    "learnMore": "Ketahui Lagi",
+    "contactUs": "Hubungi Kami",
+    "requestProposal": "Minta Cadangan",
+    "backToHome": "Kembali ke Utama",
+    "loading": "Memuatkan...",
+    "perDay": "sehari",
+    "makkahSaudi": "Makkah, Arab Saudi"
+  }
+}

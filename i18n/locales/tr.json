@@ -1,0 +1,667 @@
+{
+  "meta": {
+    "siteName": "Elite Horizon Catering",
+    "tagline": "Entegre Catering ve Merkezi Mutfak Çözümleri",
+    "home": {
+      "title": "Elite Horizon Catering | Entegre Catering ve Merkezi Mutfak – Mekke",
+      "description": "Suudi Arabistan'ın önde gelen catering grubu; Hac, Umre, oteller, sağlık, eğitim ve kurumsal müşterilere Mekke'deki son teknoloji merkezi mutfağımızdan hizmet vermektedir.",
+      "keywords": "catering Suudi Arabistan, merkezi mutfak Mekke, Hac catering hizmetleri, kurumsal catering, gıda üretimi Suudi"
+    },
+    "about": {
+      "title": "Hakkımızda | Elite Horizon Catering",
+      "description": "Mekke, Suudi Arabistan merkezli büyük ölçekli entegre catering ve gıda üretim şirketi Elite Horizon Catering hakkında bilgi edinin.",
+      "keywords": "elite horizon catering hakkında, catering şirketi Mekke, Suudi catering grubu"
+    },
+    "services": {
+      "title": "Hizmetlerimiz | Elite Horizon Catering",
+      "description": "Toplu catering, sağlıklı yemekler, fırıncılık, gıda teknolojisi ve danışmanlık dahil kapsamlı catering hizmetleri.",
+      "keywords": "catering hizmetleri Suudi Arabistan, toplu catering, sağlıklı yemekler, fırıncılık, gıda teknolojisi"
+    },
+    "sectors": {
+      "title": "Hizmet Verdiğimiz Sektörler | Elite Horizon Catering",
+      "description": "Elite Horizon Catering; Hac & Umre, oteller, sağlık, eğitim, endüstriyel, etkinlikler, hayır kurumları ve uzak kamp sektörlerine hizmet vermektedir.",
+      "keywords": "Hac catering, Umre gıda hizmetleri, otel catering Suudi Arabistan, sağlık catering"
+    },
+    "facility": {
+      "title": "Merkezi Mutfak Tesisi | Elite Horizon Catering",
+      "description": "Mekke'deki çok katlı son teknoloji merkezi mutfak tesisimizi; gelişmiş üretim bölgeleri, soğuk depolama ve kalite laboratuvarlarıyla keşfedin.",
+      "keywords": "merkezi mutfak Mekke, gıda üretim tesisi, merkezi mutfak Suudi Arabistan"
+    },
+    "equipment": {
+      "title": "Ekipman ve Kapasite | Elite Horizon Catering",
+      "description": "Elite Horizon Catering'in merkezi mutfağında endüstriyel sınıf pişirme, soğutma, fırıncılık ve büfe ekipmanları.",
+      "keywords": "catering ekipmanları, endüstriyel mutfak ekipmanları, gıda üretim ekipmanları Suudi Arabistan"
+    },
+    "gallery": {
+      "title": "Galeri | Elite Horizon Catering",
+      "description": "Elite Horizon Catering'in tesisleri, operasyonları, gıda üretimi ve catering hizmetlerinin görsel sunumu.",
+      "keywords": "catering galerisi, mutfak tesisi fotoğrafları, gıda üretim görselleri"
+    },
+    "contact": {
+      "title": "Bize Ulaşın | Elite Horizon Catering",
+      "description": "Catering teklifleri, hizmet sorgulamaları ve Suudi Arabistan'daki ortaklık fırsatları için Elite Horizon Catering ile iletişime geçin.",
+      "keywords": "catering şirketi Mekke iletişim, catering sorgulaması Suudi Arabistan, catering teklifi"
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "sectors": "Sektörler",
+    "facility": "Tesis",
+    "equipment": "Ekipman",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "getProposal": "Teklif İste"
+  },
+  "hero": {
+    "headline": "Entegre Catering ve Merkezi Mutfak Çözümleri",
+    "subheadline": "Mekke, Suudi Arabistan merkezli büyük ölçekli gıda üretimi ve catering grubu — kurumlara, otellere, hükümetlere ve Hac & Umre hacılarına hassasiyet ve ölçekle hizmet ediyor.",
+    "ctaProposal": "Teklif İste",
+    "ctaContact": "Bize Ulaşın",
+    "badge": "Mekke, Suudi Arabistan",
+    "stats": {
+      "meals": "Öğün/Gün",
+      "sectors": "Hizmet Verilen Sektör",
+      "years": "Yıllık Mükemmellik",
+      "certifications": "Sertifikasyon"
+    }
+  },
+  "about": {
+    "sectionLabel": "Biz Kimiz",
+    "headline": "Ölçek için İnşa Edildi. Mükemmellik için Tasarlandı.",
+    "body": "Elite Horizon Catering, Mekke, Suudi Arabistan merkezli entegre bir catering ve gıda üretim grubudur. Günde binlerce öğün üretme kapasitesine sahip çok katlı, son teknoloji bir merkezi mutfak işletmekteyiz. Operasyonlarımız Hac ve Umre sezonlarını, yıl boyunca konaklama, sağlık, eğitim ve kurumsal cateringe kadar uzanmaktadır.",
+    "keyPoints": [
+      "Derin bölgesel uzmanlıkla Mekke merkezli",
+      "Tam üretimden teslimatı kapsayan entegre merkezi mutfak",
+      "8'den fazla endüstri dikeyi kapsayan çok sektörlü catering",
+      "HACCP uyumlu gıda güvenliği ve kalite yönetimi protokolleri"
+    ],
+    "learnMore": "Hakkımızda Daha Fazla Bilgi",
+    "fullPage": {
+      "headline": "Elite Horizon Catering Hakkında",
+      "intro": "Elite Horizon Catering, Suudi Arabistan'ın en yetenekli entegre catering ve merkezi mutfak operasyonlarından biridir ve Mekke'nin kalbinde yer almaktadır.",
+      "story": "Kurumsal ölçekte gıda üretimi ve teslimatını yeniden tanımlamak için net bir görevle kurulmuş olan şirketimiz, gelişmiş mutfak altyapısını, gıda bilimi uzmanlığını ve derin sektör bilgisini bir araya getirmektedir.",
+      "vision": {
+        "label": "Vizyonumuz",
+        "text": "GCC'de en güvenilir entegre catering ortağı olmak — endüstriyel ölçekli üretim, beslenme hassasiyeti ve operasyonel güvenilirliği birleştirmek."
+      },
+      "mission": {
+        "label": "Misyonumuz",
+        "text": "Teknoloji odaklı süreçler ve özel ekip aracılığıyla tüm catering sektörlerinde güvenli, besleyici ve yüksek kaliteli gıda çözümleri sunmak."
+      },
+      "values": {
+        "label": "Değerlerimiz",
+        "items": [
+          "Dürüstlük",
+          "Hassasiyet",
+          "Ölçek",
+          "Güvenlik",
+          "İnovasyon"
+        ]
+      },
+      "whyUs": {
+        "headline": "Müşteriler Neden Bizi Seçiyor",
+        "points": [
+          {
+            "title": "Operasyonel Ölçek",
+            "desc": "Tek bir entegre tesisten günde binlerce öğün sunma kapasitesi — kaliteden hiçbir ödün vermeksizin."
+          },
+          {
+            "title": "Düzenleyici Uyum",
+            "desc": "Suudi SFDA standartları, HACCP ilkeleri ve uluslararası gıda güvenliği çerçeveleriyle uyumlu."
+          },
+          {
+            "title": "Uçtan Uca Kapasite",
+            "desc": "Ham madde tedarikinden ve merkezi mutfak üretiminden soğuk zincir lojistiğine ve yerinde hizmet teslimatına kadar."
+          },
+          {
+            "title": "Sektör Uzmanlığı",
+            "desc": "Hac, sağlık, eğitim, oteller ve endüstriyel catering için özel protokoller — her biri kendine özgü gereksinimlerle."
+          }
+        ]
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "Ne Yapıyoruz",
+    "headline": "Beş Temel Hizmet Hattı",
+    "subheadline": "Her hizmet hattı, özel üretim bölgeleri, uzman ekipler ve özelleştirilmiş teslimat protokolleriyle inşa edilmiştir.",
+    "items": [
+      {
+        "id": "consulting",
+        "title": "Danışmanlık ve Araştırma",
+        "shortDesc": "Catering kuruluşları için stratejik gıda hizmeti danışmanlığı, menü mühendisliği ve operasyonel araştırma.",
+        "fullDesc": "Suudi Arabistan genelinde gıda hizmeti operatörlerine, kurumlara ve devlet kurumlarına uzman danışmanlık hizmetleri sunuyoruz.",
+        "features": [
+          "Catering fizibilite çalışmaları ve operasyonel denetimler",
+          "Menü mühendisliği ve beslenme analizi",
+          "Gıda güvenliği yönetim sistemi tasarımı",
+          "Tedarikçi değerlendirmesi ve tedarik stratejisi",
+          "Personel eğitimi ve HACCP uygulaması"
+        ]
+      },
+      {
+        "id": "food-tech",
+        "title": "Gıda Teknolojisi Çözümleri",
+        "shortDesc": "Gelişmiş gıda işleme, ürün geliştirme ve teknoloji odaklı üretim optimizasyonu.",
+        "fullDesc": "Gıda teknolojisi bölümümüz, üretim verimliliğini artırmak, raf ömrünü uzatmak ve tutarlı ürün kalitesini korumak için endüstriyel gıda bilimini uygulamaktadır.",
+        "features": [
+          "Hazır yemek ve pratik gıda geliştirme",
+          "Raf ömrü uzatma ve ambalaj Ar-Ge",
+          "Beslenme profili oluşturma ve uyumlu etiketleme",
+          "Üretim hattı verimliliği optimizasyonu",
+          "Kalite güvencesi ve laboratuvar testleri"
+        ]
+      },
+      {
+        "id": "mass-catering",
+        "title": "Toplu Catering Hizmetleri",
+        "shortDesc": "Kurumlar, etkinlikler ve Hac operasyonları için büyük ölçekli sıcak yemekler, kuru rasyon paketleri ve hazır yemekler.",
+        "fullDesc": "Amiral gemisi hizmetimiz — endüstriyel ölçekte toplu catering. Günde binlerce öğünü sıcak yemek, kuru rasyon ve hazır yemek formatlarında üretip teslim ediyoruz.",
+        "features": [
+          "Aynı gün teslimatla sıcak yemek üretimi",
+          "Kuru rasyon ve ambalajlı yemek montajı",
+          "Uzatılmış raf ömrüyle hazır yemek üretimi",
+          "Hac ve Umre sezonluk catering operasyonları",
+          "Askeri, hükümet ve kurumsal beslenme sözleşmeleri"
+        ]
+      },
+      {
+        "id": "healthy-meals",
+        "title": "Sağlıklı ve Diyet Yemekleri",
+        "shortDesc": "Sağlık, kurumsal sağlık ve özel diyet gereksinimleri için beslenme açısından tasarlanmış yemek programları.",
+        "fullDesc": "Diyetisyenler ve beslenme bilimcileriyle işbirliği içinde geliştirilen hassas tasarımlı yemek programları.",
+        "features": [
+          "Sağlık tesisleri için klinik diyet yemek programları",
+          "Kurumsal sağlık ve yönetici yemek planları",
+          "Diyabetik, kardiyak ve renal diyet menüleri",
+          "Spor beslenmesi ve yüksek performans yemek planları",
+          "Alerjen kontrollü ve helal sertifikalı üretim"
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Fırıncılık ve Tatlılar",
+        "shortDesc": "Endüstriyel fırıncılık üretimi — ticari ölçekte ekmek, hamur işleri, Arap tatlıları ve dessertler.",
+        "fullDesc": "Ticari ölçekte geniş bir yelpazede ekmek, hamur işleri, Arap tatlıları ve dessert ürünleri üreten özel bir fırın tesisi.",
+        "features": [
+          "Artisan ve endüstriyel ekmek üretimi",
+          "Arap tatlıları ve hamur işleri üretimi",
+          "Oteller için özel pasta ve dessert programları",
+          "Kahvaltı ve büfe hamur işleri tedariki",
+          "Donmuş ve taze fırıncılık ürün hatları"
+        ]
+      }
+    ],
+    "learnMore": "Bu Hizmeti Keşfedin"
+  },
+  "sectors": {
+    "sectionLabel": "Kime Hizmet Ediyoruz",
+    "headline": "Sekiz Sektör. Tek Güvenilir Ortak.",
+    "subheadline": "Sektöre özgü catering sistemleri inşa ediyoruz — genel çözümler değil. Her dikeyin kendi protokolleri, uyum gereksinimleri ve operasyonel talepleri vardır.",
+    "items": [
+      {
+        "id": "hajj-umrah",
+        "title": "Hac ve Umre",
+        "shortDesc": "Dünyanın en büyük yıllık buluşması sırasında hassasiyet, uyum ve kültürel duyarlılıkla milyonlarca hacıyı besleme.",
+        "challenge": "Hac operasyonları, coğrafi olarak dağılmış alanlarda milyonlarca hacıya hizmet ederek aşırı zaman baskısı altında zirve kapasiteli üretim talep eder.",
+        "solution": "Zamanında uyumlu öğünler teslim etmek için çok birimli üretim ekipleri, önceden konumlandırılmış lojistik ve ölçeklendirilmiş ambalaj hatları kullanıyoruz."
+      },
+      {
+        "id": "hotels",
+        "title": "Oteller ve Konaklama",
+        "shortDesc": "Bölge genelinde 4 ve 5 yıldızlı otel mülkleri için premium gıda tedariki ve catering yönetimi.",
+        "challenge": "Oteller, öngörülemeyen hacimlerde tutarlı kalite, esnek menüler ve markalı gıda sunumu gerektirir.",
+        "solution": "Menü özelleştirmesi, günlük üretim takvimleri ve markalı sunum standartlarıyla özel otel catering programları sunuyoruz."
+      },
+      {
+        "id": "healthcare",
+        "title": "Sağlık ve Tıp",
+        "shortDesc": "SFDA ve uluslararası diyet standartlarını karşılayan klinik beslenme programları ve hastane yemek hizmetleri.",
+        "challenge": "Sağlık cateringe'i katı beslenme kılavuzlarını, alerjen kontrollerini ve hasta güvenliği protokollerini karşılamalıdır.",
+        "solution": "Klinik diyetisyenler tarafından geliştirilen menülerimiz, tam izlenebilirlik ve HACCP sertifikalı süreçlerle kontrollü ortamlarda üretilmektedir."
+      },
+      {
+        "id": "education",
+        "title": "Eğitim",
+        "shortDesc": "Beslenme değeri, maliyet etkinliği ve uyum için tasarlanmış okul ve üniversite yemek programları.",
+        "challenge": "Okul beslenmesi, çocuklara uygun beslenme ve düzenleyici uyumla yüksek hacimli, maliyet kontrollü üretim gerektirir.",
+        "solution": "Verimli teslimat sistemleri ve atık yönetimi protokolleriyle yaşa uygun, beslenme açısından dengeli okul yemek programları tasarlıyoruz."
+      },
+      {
+        "id": "industrial",
+        "title": "Endüstriyel ve Uzak Alanlar",
+        "shortDesc": "Tam lojistik altyapısıyla uzak kamp ve endüstriyel işgücü cateringi.",
+        "challenge": "Uzak endüstriyel alanlar, minimum altyapı bağımlılığıyla güvenilir, yüksek hacimli beslenme gerektirir.",
+        "solution": "Suudi Arabistan genelinde endüstriyel alanlara ve uzak kamplara hizmet etmek için mobil mutfak sistemleri ve yalıtımlı taşıma filolarını kullanıyoruz."
+      },
+      {
+        "id": "events",
+        "title": "Etkinlikler ve Organizasyonlar",
+        "shortDesc": "Konferanslar, devlet fonksiyonları, spor etkinlikleri ve kurumsal toplantılar için büyük ölçekli etkinlik cateringi.",
+        "challenge": "Etkinlik cateringi esnek menü tasarımı, hassas zamanlama ve büyük hacimli hızlı konuşlandırma gerektirir.",
+        "solution": "Etkinlikler ekibimiz kurulumdan servise ve dağıtıma kadar tam gıda hizmet paketleri planlıyor, üretiyor ve teslim ediyor."
+      },
+      {
+        "id": "charity",
+        "title": "Hayır ve Sosyal Programlar",
+        "shortDesc": "İftar programları, toplum beslenmesi ve büyük ölçekli hayır amaçlı gıda dağıtımı.",
+        "challenge": "Hayır amaçlı gıda programları, beslenme, helal bütünlük veya kültürel uygunluktan ödün vermeksizin maliyet etkinliği talep eder.",
+        "solution": "Ramazan İftar programları, toplum mutfakları ve afet yardım çalışmaları için yüksek hacimli hayır amaçlı yemek üretimi ve dağıtımını yönetiyoruz."
+      },
+      {
+        "id": "remote-camps",
+        "title": "Uzak Kamplar ve Askeri",
+        "shortDesc": "Askeri üsler, inşaat kampları ve uzak devlet tesisleri için özel catering altyapısı.",
+        "challenge": "Askeri ve kamp cateringi katı güvenlik uyumu, tutarlı kalite ve büyük ölçekli lojistik gerektirir.",
+        "solution": "Yerinde yönetim ekipleri, özel menüler ve askeri standart gıda güvenliği protokolleriyle özel kamp catering sözleşmeleri sunuyoruz."
+      }
+    ]
+  },
+  "facility": {
+    "sectionLabel": "Altyapımız",
+    "headline": "Endüstriyel Ölçek için İnşa Edilmiş Merkezi Mutfak",
+    "subheadline": "Mekke'deki tesisimiz, tek bir entegre operasyon kapsamında gelişmiş işleme bölgelerini, soğuk zincir altyapısını ve kalite kontrol laboratuvarlarını birleştirerek yüksek hacimli gıda üretimi için özel olarak inşa edilmiştir.",
+    "zones": [
+      {
+        "id": "production",
+        "title": "Üretim Bölgeleri",
+        "desc": "Endüstriyel ocaklar, buharlı ceketli kazanlar, kombi fırınlar ve otomatik porsiyonlama sistemleriyle donatılmış özel pişirme salonları."
+      },
+      {
+        "id": "cold-storage",
+        "title": "Soğuk Depolama ve Soğutma",
+        "desc": "Ham maddeler, yarı mamul ürünler ve bitmiş ürünler için ayrı sıcaklık bölgeleri olan çok bölmeli soğuk depolama."
+      },
+      {
+        "id": "packaging",
+        "title": "Ambalajlama ve Montaj",
+        "desc": "Tepsi kapatma, vakum ambalajlama ve kuru rasyon montajı için yüksek hızlı ambalajlama hatları."
+      },
+      {
+        "id": "laboratory",
+        "title": "Kalite Kontrol Laboratuvarı",
+        "desc": "Gelen ham maddeler ve bitmiş ürünler üzerinde mikrobiyolojik, kimyasal ve duyusal testler yapan dahili gıda güvenliği laboratuvarı."
+      },
+      {
+        "id": "logistics",
+        "title": "Lojistik ve Sevkiyat",
+        "desc": "Sıcaklık kontrollü yükleme rampaları, filo yönetim sistemleri ve gerçek zamanlı teslimat takibiyle özel sevkiyat bölgesi."
+      }
+    ],
+    "fullPage": {
+      "intro": "Mekke'deki Elite Horizon Catering merkezi mutfak tesisi, operasyonlarımızın omurgasıdır. Birden fazla katı ve özel tasarlanmış üretim bölgeleriyle tesis, gıda üretim zincirinin her adımını entegre etmektedir.",
+      "floors": {
+        "headline": "Çok Katlı Tesis Genel Bakışı",
+        "items": [
+          {
+            "level": "Zemin Kat",
+            "desc": "Ham madde kabulü, kuru depolama, soğuk depolama ve lojistik sevkiyat bölgesi."
+          },
+          {
+            "level": "Birinci Kat",
+            "desc": "Ana pişirme salonları, sıcak yemek üretimi ve çorba & sos hazırlığı."
+          },
+          {
+            "level": "İkinci Kat",
+            "desc": "Soğuk hazırlık, salata montajı, süt ürünleri ve fırıncılık üretimi."
+          },
+          {
+            "level": "Üçüncü Kat",
+            "desc": "Ambalajlama ve tepsi kapatma hatları, etiketleme ve bitmiş ürün depolama."
+          },
+          {
+            "level": "Laboratuvar Katı",
+            "desc": "Kalite kontrol laboratuvarı, mikrobiyolojik testler ve gıda güvenliği yönetimi."
+          }
+        ]
+      },
+      "zones": {
+        "label": "Üretim Altyapısı",
+        "headline": "Bölge Bazında Özet"
+      }
+    }
+  },
+  "metrics": {
+    "sectionLabel": "Operasyonel Ölçek",
+    "headline": "Kendi Adına Konuşan Altyapı",
+    "items": [
+      {
+        "value": 4,
+        "label": "Üretim Katı",
+        "suffix": ""
+      },
+      {
+        "value": 12,
+        "label": "Pişirme İstasyonu",
+        "suffix": "+"
+      },
+      {
+        "value": 8,
+        "label": "Soğuk Oda",
+        "suffix": ""
+      },
+      {
+        "value": 500,
+        "label": "Ekipman Birimi",
+        "suffix": "+"
+      },
+      {
+        "value": 30,
+        "label": "Teslimat Aracı",
+        "suffix": "+"
+      },
+      {
+        "value": 50000,
+        "label": "Günlük Öğün Kapasitesi",
+        "suffix": "+"
+      }
+    ]
+  },
+  "process": {
+    "sectionLabel": "Nasıl Çalışıyoruz",
+    "headline": "Kaynaktan Servise",
+    "subheadline": "Ürettiğimiz her öğün, güvenlik, tutarlılık ve ölçek için tasarlanmış titiz, izlenebilir bir süreci takip eder.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Ham Maddeler",
+        "desc": "Gelen kalite denetimleri ve izlenebilirlik belgeleriyle sertifikalı tedarikçi alımı."
+      },
+      {
+        "id": 2,
+        "title": "Hazırlık",
+        "desc": "Özel hazırlık bölgelerinde kontrollü ön işleme — yıkama, kesme, marine etme."
+      },
+      {
+        "id": 3,
+        "title": "Pişirme",
+        "desc": "Zaman-sıcaklık izleme ve parti kayıtlarıyla kalibre edilmiş ekipman kullanılarak endüstriyel pişirme."
+      },
+      {
+        "id": 4,
+        "title": "Ambalajlama",
+        "desc": "Ağırlık ve etiket kontrolleriyle otomatik ambalajlama hatlarında hijyenik porsiyonlama ve kapatma."
+      },
+      {
+        "id": 5,
+        "title": "Soğuk Zincir",
+        "desc": "Sevkiyata kadar ürün bütünlüğünü koruyarak hızlı soğutma ve sıcaklık kontrollü depolama."
+      },
+      {
+        "id": 6,
+        "title": "Teslimat",
+        "desc": "GPS takibi ve teslimat kanıtı belgeleriyle soğutmalı ve yalıtımlı filo teslimatı."
+      },
+      {
+        "id": 7,
+        "title": "Servis",
+        "desc": "Müşteri sözleşmesinde belirtildiği şekilde yerinde hizmet teslimatı, büfe kurulumu veya doğrudan dağıtım."
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Uyum ve Güven",
+    "headline": "Sertifikalı. Uyumlu. Güvenilir.",
+    "subheadline": "Operasyonlarımız Suudi ve uluslararası gıda güvenliği standartlarıyla uyumludur.",
+    "items": [
+      {
+        "title": "SFDA Lisansı",
+        "desc": "Suudi Gıda ve İlaç Otoritesi sertifikalı gıda üretim tesisi."
+      },
+      {
+        "title": "HACCP Uyumu",
+        "desc": "Tehlike Analizi ve Kritik Kontrol Noktaları sistemi tam olarak uygulanmış."
+      },
+      {
+        "title": "ISO 22000",
+        "desc": "Uluslararası standartları karşılayan gıda güvenliği yönetim sistemi."
+      },
+      {
+        "title": "Helal Sertifikası",
+        "desc": "Ham maddeden bitmiş ürüne kadar tam helal sertifikalı üretim."
+      },
+      {
+        "title": "Belediye Lisansı",
+        "desc": "Mekke Belediyesi onaylı ticari gıda üretim tesisi."
+      },
+      {
+        "title": "MOH Uyumu",
+        "desc": "Sağlık Bakanlığı beslenme ve diyet standartlarına uyum."
+      }
+    ]
+  },
+  "equipment": {
+    "sectionLabel": "Kapasitelerimiz",
+    "headline": "Endüstriyel Sınıf Ekipman. Profesyonel Sınıf Sonuçlar.",
+    "subheadline": "Merkezi mutfağımız, her üretim kategorisinde ticari sınıf makinelerle donatılmıştır.",
+    "categories": [
+      {
+        "id": "cooking",
+        "title": "Pişirme Ekipmanları",
+        "items": [
+          {
+            "name": "Endüstriyel Gaz Ocakları",
+            "desc": "Yüksek hacimli pişirme için ağır hizmet çok brülörlü ocaklar."
+          },
+          {
+            "name": "Buhar Ceketli Kazanlar",
+            "desc": "Çorba, sos ve pilav için 200-500 litre kapasite."
+          },
+          {
+            "name": "Kombi Fırınlar",
+            "desc": "Programlanabilir kombinasyon buhar-konveksiyonlu fırınlar."
+          },
+          {
+            "name": "Eğimli Kavurma Tavalar",
+            "desc": "Et, güveç ve toplu pişirme için büyük formatlı tavalar."
+          },
+          {
+            "name": "Derin Kızartma Makineleri",
+            "desc": "Filtreleme ve otomatik sıcaklık kontrolüyle endüstriyel fritözler."
+          },
+          {
+            "name": "Basınçlı Pişiriciler",
+            "desc": "Büyük kapasiteli ticari basınçlı pişirme üniteleri."
+          }
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Fırıncılık Ekipmanları",
+        "items": [
+          {
+            "name": "Katlı Fırınlar",
+            "desc": "Ekmek ve hamur işleri için çok katlı taş tabanlı fırınlar."
+          },
+          {
+            "name": "Spiral Hamur Yoğurucular",
+            "desc": "Ekmek üretimi için yüksek kapasiteli hamur hazırlama."
+          },
+          {
+            "name": "Laminasyon Makineleri",
+            "desc": "Otomatik hamur açma ve laminasyon ekipmanları."
+          },
+          {
+            "name": "Mayalama Kabinleri",
+            "desc": "Sıcaklık ve nem kontrollü fermantasyon kabinleri."
+          },
+          {
+            "name": "Döküm ve Şekillendirme Makineleri",
+            "desc": "Otomatik porsiyon kontrol ve şekillendirme ekipmanları."
+          }
+        ]
+      },
+      {
+        "id": "refrigeration",
+        "title": "Soğutma ve Soğuk Zincir",
+        "items": [
+          {
+            "name": "Yürüyüşlü Soğuk Odalar",
+            "desc": "Ham maddeler için büyük formatlı soğuk odalar (0-4°C)."
+          },
+          {
+            "name": "Hızlı Soğutucular",
+            "desc": "90 dakika içinde +70°C'den +3°C'ye hızlı soğutma."
+          },
+          {
+            "name": "Hızlı Dondurucular",
+            "desc": "Uzun vadeli ürün koruması için derin dondurucu üniteler."
+          },
+          {
+            "name": "Soğutmalı Vitrinler",
+            "desc": "Büfe ve dağıtım için servise hazır soğuk vitrinler."
+          },
+          {
+            "name": "Sıcaklık İzleme",
+            "desc": "Tüm soğuk bölgelerde 7/24 IoT tabanlı sıcaklık kayıt."
+          }
+        ]
+      },
+      {
+        "id": "buffet",
+        "title": "Büfe ve Servis Ekipmanları",
+        "items": [
+          {
+            "name": "Chafing Dishler",
+            "desc": "Paslanmaz çelik elektrikli ve jel yakıtlı chafing sistemleri."
+          },
+          {
+            "name": "Bain-Marie Üniteleri",
+            "desc": "Sıcak tutma ve servis için elektrikli ısıtmalı vitrin."
+          },
+          {
+            "name": "Yalıtımlı Taşıma Kapları",
+            "desc": "GN uyumlu yalıtımlı gıda taşıma arabaları."
+          },
+          {
+            "name": "Servis Tezgahları",
+            "desc": "Etkinlik ve kurumsal servis için modüler paslanmaz büfe tezgahları."
+          }
+        ]
+      },
+      {
+        "id": "infrastructure",
+        "title": "Paslanmaz Çelik Altyapı",
+        "items": [
+          {
+            "name": "Çalışma Tezgahları ve Hazırlık Masaları",
+            "desc": "Tesis genelinde 316 derece paslanmaz çelik hazırlık yüzeyleri."
+          },
+          {
+            "name": "Raf Sistemleri",
+            "desc": "Duvara monte ve serbest duran paslanmaz depolama."
+          },
+          {
+            "name": "Tencere Yıkama ve Bulaşık Makineleri",
+            "desc": "Endüstriyel raf ve tünel bulaşık makineleri."
+          },
+          {
+            "name": "Egzoz Davlumbazları",
+            "desc": "Tüm pişirme istasyonlarının üzerinde yüksek çekişli havalandırma."
+          },
+          {
+            "name": "Zemin Tahliyesi",
+            "desc": "Tüm üretim bölgelerinde paslanmaz kanal tahliye sistemleri."
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "sectionLabel": "Çalışmalarımız",
+    "headline": "Tesis. Operasyonlar. Çıktı.",
+    "subheadline": "Altyapımızın, üretim sürecimizin ve catering operasyonlarımızın görsel kaydı.",
+    "viewAll": "Tam Galeriyi Görüntüle",
+    "categories": [
+      "Tümü",
+      "Tesis",
+      "Üretim",
+      "Catering",
+      "Etkinlikler",
+      "Teslimat"
+    ]
+  },
+  "contact": {
+    "sectionLabel": "İletişime Geçin",
+    "headline": "Bir Konuşma Başlatın",
+    "subheadline": "Bir teklife, tesis ziyaretine veya sadece bir soruya ihtiyacınız olsun — ekibimiz 24 saat içinde yanıt vermeye hazır.",
+    "info": {
+      "phone": "+966 XX XXX XXXX",
+      "email": "info@elitehorizoncatering.com",
+      "whatsapp": "+966 XX XXX XXXX",
+      "address": "Mekke, Suudi Arabistan Krallığı"
+    },
+    "form": {
+      "name": "Ad Soyad",
+      "namePlaceholder": "Tam adınız",
+      "company": "Şirket / Kuruluş",
+      "companyPlaceholder": "Kuruluşunuzun adı",
+      "sector": "Sektör",
+      "sectorPlaceholder": "Sektörünüzü seçin",
+      "serviceType": "Gerekli Hizmet",
+      "serviceTypePlaceholder": "Hizmet türünü seçin",
+      "whatsapp": "WhatsApp Numarası",
+      "whatsappPlaceholder": "+966 XX XXX XXXX",
+      "message": "Mesaj",
+      "messagePlaceholder": "Catering gereksinimlerinizi, hacminizi, konumunuzu ve zaman çizelgenizi açıklayın...",
+      "submit": "Sorgu Gönder",
+      "submitting": "Gönderiliyor...",
+      "success": "Teşekkürler! 24 saat içinde sizinle iletişime geçeceğiz.",
+      "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan ulaşın.",
+      "sectors": [
+        "Hac ve Umre",
+        "Oteller ve Konaklama",
+        "Sağlık",
+        "Eğitim",
+        "Endüstriyel ve Uzak",
+        "Etkinlikler ve Organizasyonlar",
+        "Hayır Programları",
+        "Askeri ve Kamplar",
+        "Diğer"
+      ],
+      "serviceTypes": [
+        "Toplu Catering",
+        "Sağlıklı ve Diyet Yemekleri",
+        "Fırıncılık ve Tatlılar",
+        "Danışmanlık",
+        "Gıda Teknolojisi",
+        "Tam Catering Sözleşmesi",
+        "Diğer"
+      ]
+    },
+    "whatsappBtn": "WhatsApp'ta Sohbet Et",
+    "callBtn": "Şimdi Ara",
+    "emailBtn": "E-posta Gönder",
+    "inquiryTitle": "Sorgu Gönderin",
+    "inquiryDesc": "Aşağıdaki formu doldurun; ekibimiz 24 saat içinde size özel bir teklifle yanıt verecektir.",
+    "infoTitle": "İletişim Bilgileri",
+    "responseTimeLabel": "Yanıt Süresi",
+    "responseTimeValue": "24 saat içinde",
+    "mapLocation": "Mekke, Suudi Arabistan",
+    "mapAvailable": "Harita entegrasyonu mevcut"
+  },
+  "footer": {
+    "description": "Elite Horizon Catering, Mekke, Suudi Arabistan merkezli büyük ölçekli entegre bir catering ve merkezi mutfak grubudur — kurumlara, konaklama sektörüne, Hac & Umre'ye ve endüstriyel sektörlere hizmet vermektedir.",
+    "links": {
+      "company": "Şirket",
+      "services": "Hizmetler",
+      "sectors": "Sektörler",
+      "legal": "Hukuki"
+    },
+    "copyright": "© 2024 Elite Horizon Catering. Tüm hakları saklıdır.",
+    "location": "Mekke, Suudi Arabistan Krallığı"
+  },
+  "common": {
+    "readMore": "Devamını Oku",
+    "viewAll": "Tümünü Görüntüle",
+    "learnMore": "Daha Fazla Bilgi",
+    "contactUs": "Bize Ulaşın",
+    "requestProposal": "Teklif İste",
+    "backToHome": "Ana Sayfaya Dön",
+    "loading": "Yükleniyor...",
+    "perDay": "günlük",
+    "makkahSaudi": "Mekke, Suudi Arabistan"
+  }
+}

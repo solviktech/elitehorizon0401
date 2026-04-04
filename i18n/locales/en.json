@@ -1,0 +1,667 @@
+{
+  "meta": {
+    "siteName": "Elite Horizon Catering",
+    "tagline": "Integrated Catering & Central Kitchen Solutions",
+    "home": {
+      "title": "Elite Horizon Catering | Integrated Catering & Central Kitchen – Makkah",
+      "description": "Saudi Arabia's premier catering group serving Hajj, Umrah, hotels, healthcare, education and institutional clients from our state-of-the-art central kitchen in Makkah.",
+      "keywords": "catering Saudi Arabia, central kitchen Makkah, Hajj catering services, institutional catering, food production Saudi, Umrah catering"
+    },
+    "about": {
+      "title": "About Elite Horizon Catering | Makkah-Based Catering Group",
+      "description": "Learn about Elite Horizon Catering – a large-scale integrated catering and food production company headquartered in Makkah, Saudi Arabia.",
+      "keywords": "about elite horizon catering, catering company Makkah, Saudi catering group"
+    },
+    "services": {
+      "title": "Our Services | Elite Horizon Catering",
+      "description": "Comprehensive catering services including mass catering, healthy meals, bakery, food technology and consulting from Elite Horizon Catering.",
+      "keywords": "catering services Saudi Arabia, mass catering, healthy meals, bakery, food technology"
+    },
+    "sectors": {
+      "title": "Sectors We Serve | Elite Horizon Catering",
+      "description": "Elite Horizon Catering serves Hajj & Umrah, hotels, healthcare, education, industrial, events, charity and remote camp sectors across Saudi Arabia.",
+      "keywords": "Hajj catering, Umrah food services, hotel catering Saudi Arabia, healthcare catering, industrial catering"
+    },
+    "facility": {
+      "title": "Central Kitchen Facility | Elite Horizon Catering",
+      "description": "Explore our state-of-the-art multi-floor central kitchen facility in Makkah featuring advanced production zones, cold storage, and quality laboratories.",
+      "keywords": "central kitchen Makkah, food production facility, central kitchen Saudi Arabia"
+    },
+    "equipment": {
+      "title": "Equipment & Capability | Elite Horizon Catering",
+      "description": "Industrial-grade cooking, refrigeration, bakery, and buffet equipment at Elite Horizon Catering's central kitchen.",
+      "keywords": "catering equipment, industrial kitchen equipment, food production equipment Saudi Arabia"
+    },
+    "gallery": {
+      "title": "Gallery | Elite Horizon Catering",
+      "description": "Visual showcase of Elite Horizon Catering's facilities, operations, food production and catering services.",
+      "keywords": "catering gallery, kitchen facility photos, food production images"
+    },
+    "contact": {
+      "title": "Contact Us | Elite Horizon Catering",
+      "description": "Get in touch with Elite Horizon Catering for catering proposals, service inquiries and partnership opportunities in Saudi Arabia.",
+      "keywords": "contact catering company Makkah, catering inquiry Saudi Arabia, catering proposal"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "sectors": "Sectors",
+    "facility": "Facility",
+    "equipment": "Equipment",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "getProposal": "Request Proposal"
+  },
+  "hero": {
+    "headline": "Integrated Catering & Central Kitchen Solutions",
+    "subheadline": "A large-scale food production and catering group headquartered in Makkah, Saudi Arabia — serving institutions, hotels, government, and Hajj & Umrah pilgrims with precision and scale.",
+    "ctaProposal": "Request a Proposal",
+    "ctaContact": "Contact Us",
+    "badge": "Makkah, Saudi Arabia",
+    "stats": {
+      "meals": "Meals/Day",
+      "sectors": "Sectors Served",
+      "years": "Years of Excellence",
+      "certifications": "Certifications"
+    }
+  },
+  "about": {
+    "sectionLabel": "Who We Are",
+    "headline": "Built for Scale. Engineered for Excellence.",
+    "body": "Elite Horizon Catering is an integrated catering and food production group based in Makkah, Saudi Arabia. We operate a state-of-the-art multi-floor central kitchen capable of producing thousands of meals daily across hot, cold, ready-meal, and specialty formats. Our operations span Hajj and Umrah seasons, year-round hospitality, healthcare, education, and institutional catering — delivering consistent quality at unmatched scale.",
+    "keyPoints": [
+      "Makkah-headquartered with deep regional expertise",
+      "Integrated central kitchen with full production-to-delivery capability",
+      "Multi-sector catering covering 8+ industry verticals",
+      "HACCP-aligned food safety and quality management protocols"
+    ],
+    "learnMore": "Learn More About Us",
+    "fullPage": {
+      "headline": "About Elite Horizon Catering",
+      "intro": "Elite Horizon Catering — مسارات النخبة للإعاشة — is one of Saudi Arabia's most capable integrated catering and central kitchen operations, headquartered in the heart of Makkah.",
+      "story": "Founded with a clear mandate to redefine food production and delivery at institutional scale, we bring together advanced kitchen infrastructure, food science expertise, and deep sector knowledge to serve clients who demand reliability, compliance, and quality — every single day.",
+      "vision": {
+        "label": "Our Vision",
+        "text": "To be the most trusted integrated catering partner in the GCC — combining industrial-scale production, nutritional precision, and operational reliability."
+      },
+      "mission": {
+        "label": "Our Mission",
+        "text": "To deliver safe, nutritious, and high-quality food solutions across all catering sectors — from Hajj pilgrim meals to executive dining — through technology-driven processes and a dedicated team."
+      },
+      "values": {
+        "label": "Our Values",
+        "items": [
+          "Integrity",
+          "Precision",
+          "Scale",
+          "Safety",
+          "Innovation"
+        ]
+      },
+      "whyUs": {
+        "headline": "Why Clients Choose Us",
+        "points": [
+          {
+            "title": "Operational Scale",
+            "desc": "Capacity to serve thousands of meals per day from a single integrated facility — with zero compromise on quality."
+          },
+          {
+            "title": "Regulatory Compliance",
+            "desc": "Aligned with Saudi Food and Drug Authority standards, HACCP principles, and international food safety frameworks."
+          },
+          {
+            "title": "End-to-End Capability",
+            "desc": "From raw material procurement and central kitchen production to cold-chain logistics and on-site service delivery."
+          },
+          {
+            "title": "Sector Expertise",
+            "desc": "Specialized protocols for Hajj, healthcare, education, hotels, and industrial catering — each with unique requirements."
+          }
+        ]
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "What We Do",
+    "headline": "Five Core Service Lines",
+    "subheadline": "Each service line is built with dedicated production zones, specialist teams, and tailored delivery protocols.",
+    "items": [
+      {
+        "id": "consulting",
+        "title": "Consulting & Research",
+        "shortDesc": "Strategic food service consulting, menu engineering, and operational research for catering organizations.",
+        "fullDesc": "We provide expert consulting services to food service operators, institutions, and government bodies across Saudi Arabia. Our team combines food science, operations management, and sector-specific knowledge to design scalable, compliant, and cost-efficient catering systems.",
+        "features": [
+          "Catering feasibility studies and operational audits",
+          "Menu engineering and nutritional analysis",
+          "Food safety management system design",
+          "Supplier assessment and procurement strategy",
+          "Staff training and HACCP implementation"
+        ]
+      },
+      {
+        "id": "food-tech",
+        "title": "Food Technology Solutions",
+        "shortDesc": "Advanced food processing, product development, and technology-driven production optimization.",
+        "fullDesc": "Our food technology division applies industrial food science to improve production efficiency, extend shelf life, and maintain consistent product quality. We develop ready-meal formats, custom diet programs, and product lines designed for mass consumption.",
+        "features": [
+          "Ready-meal and convenience food development",
+          "Shelf-life extension and packaging R&D",
+          "Nutritional profiling and compliance labeling",
+          "Production line efficiency optimization",
+          "Quality assurance and laboratory testing"
+        ]
+      },
+      {
+        "id": "mass-catering",
+        "title": "Mass Catering Services",
+        "shortDesc": "Large-scale hot meals, dry ration packs, and ready meals for institutions, events, and Hajj operations.",
+        "fullDesc": "Our flagship service — mass catering at industrial scale. We produce and deliver thousands of meals daily in hot-meal, dry-ration, and ready-meal formats. Purpose-built for Hajj pilgrim feeding, institutional contracts, and large-scale events.",
+        "features": [
+          "Hot meal production with same-day delivery",
+          "Dry ration and packaged meal assembly",
+          "Ready meal manufacturing with extended shelf life",
+          "Hajj and Umrah seasonal catering operations",
+          "Military, government, and institutional feeding contracts"
+        ]
+      },
+      {
+        "id": "healthy-meals",
+        "title": "Healthy & Diet Meals",
+        "shortDesc": "Nutritionally designed meal programs for healthcare, corporate wellness, and specialized dietary requirements.",
+        "fullDesc": "Precision-designed meal programs developed in collaboration with dietitians and nutritional scientists. We cater to hospitals, corporate wellness programs, sports nutrition, and individuals with specific dietary needs — including diabetic, renal, cardiac, and low-calorie protocols.",
+        "features": [
+          "Clinical diet meal programs for healthcare facilities",
+          "Corporate wellness and executive meal plans",
+          "Diabetic, cardiac, and renal diet menus",
+          "Sports nutrition and high-performance meal plans",
+          "Allergen-controlled and halal-certified production"
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Bakery & Desserts",
+        "shortDesc": "Industrial bakery production — breads, pastries, Arabic sweets, and desserts at commercial scale.",
+        "fullDesc": "A dedicated bakery facility producing a wide range of breads, pastries, Arabic sweets, and dessert products at commercial scale. Our bakery serves hospitality clients, institutional catering contracts, and retail supply chains with consistent, high-quality products.",
+        "features": [
+          "Artisan and industrial bread production",
+          "Arabic sweets and pastry manufacturing",
+          "Custom cake and dessert programs for hotels",
+          "Breakfast and buffet pastry supply",
+          "Frozen and fresh bakery product lines"
+        ]
+      }
+    ],
+    "learnMore": "Explore This Service"
+  },
+  "sectors": {
+    "sectionLabel": "Who We Serve",
+    "headline": "Eight Sectors. One Trusted Partner.",
+    "subheadline": "We build sector-specific catering systems — not generic solutions. Every vertical has its own protocols, compliance requirements, and operational demands.",
+    "items": [
+      {
+        "id": "hajj-umrah",
+        "title": "Hajj & Umrah",
+        "shortDesc": "Feeding millions of pilgrims with precision, compliance, and cultural sensitivity during the world's largest annual gathering.",
+        "challenge": "Hajj operations demand peak-capacity production under extreme time pressure, serving millions of pilgrims across geographically dispersed sites.",
+        "solution": "We deploy multi-unit production teams, pre-positioned logistics, and scaled packaging lines to deliver compliant meals on time — every time."
+      },
+      {
+        "id": "hotels",
+        "title": "Hotels & Hospitality",
+        "shortDesc": "Premium food supply and catering management for 4-star and 5-star hotel properties across the region.",
+        "challenge": "Hotels require consistent quality, flexible menus, and on-brand food presentation at unpredictable volumes.",
+        "solution": "We provide dedicated hotel catering programs with menu customization, daily production schedules, and branded presentation standards."
+      },
+      {
+        "id": "healthcare",
+        "title": "Healthcare & Medical",
+        "shortDesc": "Clinical nutrition programs and hospital meal services meeting SFDA and international dietary standards.",
+        "challenge": "Healthcare catering must meet strict nutritional guidelines, allergen controls, and patient safety protocols.",
+        "solution": "Our clinical dietitian-developed menus are produced in controlled environments with full traceability and HACCP-certified processes."
+      },
+      {
+        "id": "education",
+        "title": "Education",
+        "shortDesc": "School and university meal programs designed for nutritional value, cost-efficiency, and compliance.",
+        "challenge": "School feeding requires high-volume, cost-controlled production with child-appropriate nutrition and regulatory compliance.",
+        "solution": "We design age-appropriate, nutritionally balanced school meal programs with efficient delivery systems and waste management protocols."
+      },
+      {
+        "id": "industrial",
+        "title": "Industrial & Remote Sites",
+        "shortDesc": "Remote camp and industrial workforce catering with full logistics infrastructure.",
+        "challenge": "Remote industrial sites need reliable, high-volume feeding with minimal infrastructure dependency.",
+        "solution": "We deploy mobile kitchen systems and insulated transport fleets to serve industrial worksites and remote camps across Saudi Arabia."
+      },
+      {
+        "id": "events",
+        "title": "Events & Functions",
+        "shortDesc": "Large-scale event catering for conferences, government functions, sporting events, and corporate gatherings.",
+        "challenge": "Event catering requires flexible menu design, precision timing, and large-volume rapid deployment.",
+        "solution": "Our events team plans, produces, and delivers complete food service packages — from setup to service to breakdown."
+      },
+      {
+        "id": "charity",
+        "title": "Charity & Social Programs",
+        "shortDesc": "Iftar programs, community feeding, and charitable food distribution at scale.",
+        "challenge": "Charitable food programs demand cost efficiency without sacrificing nutrition, halal integrity, or cultural appropriateness.",
+        "solution": "We manage high-volume charitable meal production and distribution for Ramadan Iftar programs, community kitchens, and disaster relief efforts."
+      },
+      {
+        "id": "remote-camps",
+        "title": "Remote Camps & Military",
+        "shortDesc": "Dedicated catering infrastructure for military bases, construction camps, and government remote installations.",
+        "challenge": "Military and camp catering requires strict security compliance, consistent quality, and large-scale logistics.",
+        "solution": "We provide dedicated camp catering contracts with on-site management teams, specialized menus, and military-standard food safety protocols."
+      }
+    ]
+  },
+  "facility": {
+    "sectionLabel": "Our Infrastructure",
+    "headline": "A Central Kitchen Built for Industrial Scale",
+    "subheadline": "Our Makkah facility is purpose-built for high-volume food production — combining advanced processing zones, cold chain infrastructure, and quality control laboratories under one integrated operation.",
+    "zones": [
+      {
+        "id": "production",
+        "title": "Production Zones",
+        "desc": "Dedicated cooking halls equipped with industrial ranges, steam-jacketed kettles, combi ovens, and automated portioning systems. Each production zone is designed for a specific meal type — hot meals, cold preparation, and ready-meal assembly."
+      },
+      {
+        "id": "cold-storage",
+        "title": "Cold Storage & Refrigeration",
+        "desc": "Multi-chamber cold storage with distinct temperature zones for raw materials, semi-finished products, and finished goods. Our refrigeration infrastructure maintains strict cold-chain integrity from intake to dispatch."
+      },
+      {
+        "id": "packaging",
+        "title": "Packaging & Assembly",
+        "desc": "High-speed packaging lines for tray sealing, vacuum packaging, and dry ration assembly. Purpose-designed for high-volume output with integrated check-weighing and labeling systems."
+      },
+      {
+        "id": "laboratory",
+        "title": "Quality Control Laboratory",
+        "desc": "An in-house food safety laboratory conducting microbiological, chemical, and sensory testing on incoming raw materials and finished products — ensuring every batch meets SFDA and internal quality standards."
+      },
+      {
+        "id": "logistics",
+        "title": "Logistics & Dispatch",
+        "desc": "A dedicated dispatch zone with temperature-controlled loading bays, fleet management systems, and real-time delivery tracking. Our vehicles are equipped with insulated and refrigerated compartments for hot and cold product delivery."
+      }
+    ],
+    "fullPage": {
+      "intro": "Elite Horizon Catering's central kitchen facility in Makkah is the backbone of our operations. Spanning multiple floors and purpose-designed production zones, the facility integrates every step of the food production chain — from raw material intake to finished product dispatch.",
+      "floors": {
+        "headline": "Multi-Floor Facility Overview",
+        "items": [
+          {
+            "level": "Ground Floor",
+            "desc": "Raw material intake, dry storage, cold storage, and logistics dispatch zone."
+          },
+          {
+            "level": "First Floor",
+            "desc": "Primary cooking halls, hot meal production, and soup & sauce preparation."
+          },
+          {
+            "level": "Second Floor",
+            "desc": "Cold preparation, salad assembly, dairy, and bakery production."
+          },
+          {
+            "level": "Third Floor",
+            "desc": "Packaging and tray-sealing lines, labeling, and finished goods storage."
+          },
+          {
+            "level": "Laboratory Level",
+            "desc": "Quality control lab, microbiological testing, and food safety management."
+          }
+        ]
+      },
+      "zones": {
+        "label": "Production Infrastructure",
+        "headline": "Zone-by-Zone Breakdown"
+      }
+    }
+  },
+  "metrics": {
+    "sectionLabel": "Operational Scale",
+    "headline": "Infrastructure That Speaks for Itself",
+    "items": [
+      {
+        "value": 4,
+        "label": "Production Floors",
+        "suffix": ""
+      },
+      {
+        "value": 12,
+        "label": "Cooking Stations",
+        "suffix": "+"
+      },
+      {
+        "value": 8,
+        "label": "Cold Rooms",
+        "suffix": ""
+      },
+      {
+        "value": 500,
+        "label": "Equipment Units",
+        "suffix": "+"
+      },
+      {
+        "value": 30,
+        "label": "Delivery Vehicles",
+        "suffix": "+"
+      },
+      {
+        "value": 50000,
+        "label": "Daily Meal Capacity",
+        "suffix": "+"
+      }
+    ]
+  },
+  "process": {
+    "sectionLabel": "How We Work",
+    "headline": "From Source to Service",
+    "subheadline": "Every meal we produce follows a rigorous, traceable process designed for safety, consistency, and scale.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Raw Materials",
+        "desc": "Certified supplier procurement with incoming quality inspection and traceability documentation."
+      },
+      {
+        "id": 2,
+        "title": "Preparation",
+        "desc": "Controlled pre-processing — washing, cutting, marinating — in dedicated preparation zones."
+      },
+      {
+        "id": 3,
+        "title": "Cooking",
+        "desc": "Industrial cooking using calibrated equipment with time-temperature monitoring and batch records."
+      },
+      {
+        "id": 4,
+        "title": "Packaging",
+        "desc": "Hygienic portioning and sealing on automated packaging lines with weight and label checks."
+      },
+      {
+        "id": 5,
+        "title": "Cold Chain",
+        "desc": "Rapid chilling and temperature-controlled storage maintaining product integrity until dispatch."
+      },
+      {
+        "id": 6,
+        "title": "Delivery",
+        "desc": "Refrigerated and insulated fleet delivery with GPS tracking and proof-of-delivery documentation."
+      },
+      {
+        "id": 7,
+        "title": "Service",
+        "desc": "On-site service delivery, buffet setup, or direct distribution — as specified by the client contract."
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Compliance & Trust",
+    "headline": "Certified. Compliant. Trusted.",
+    "subheadline": "Our operations are aligned with Saudi and international food safety standards.",
+    "items": [
+      {
+        "title": "SFDA License",
+        "desc": "Saudi Food and Drug Authority certified food production facility."
+      },
+      {
+        "title": "HACCP Compliance",
+        "desc": "Hazard Analysis and Critical Control Points system fully implemented."
+      },
+      {
+        "title": "ISO 22000",
+        "desc": "Food safety management system meeting international standards."
+      },
+      {
+        "title": "Halal Certification",
+        "desc": "Fully halal-certified production from raw materials to finished product."
+      },
+      {
+        "title": "Municipality License",
+        "desc": "Makkah Municipality approved commercial food production premises."
+      },
+      {
+        "title": "MOH Compliance",
+        "desc": "Ministry of Health dietary and nutritional standards adherence."
+      }
+    ]
+  },
+  "equipment": {
+    "sectionLabel": "Our Capabilities",
+    "headline": "Industrial-Grade Equipment. Professional-Grade Results.",
+    "subheadline": "Our central kitchen is equipped with commercial-grade machinery across every production category.",
+    "categories": [
+      {
+        "id": "cooking",
+        "title": "Cooking Equipment",
+        "items": [
+          {
+            "name": "Industrial Gas Ranges",
+            "desc": "Heavy-duty multi-burner ranges for high-volume cooking."
+          },
+          {
+            "name": "Steam-Jacketed Kettles",
+            "desc": "200–500 litre capacity for soups, sauces, and rice."
+          },
+          {
+            "name": "Combi Ovens",
+            "desc": "Programmable combination steam-convection ovens."
+          },
+          {
+            "name": "Tilting Braising Pans",
+            "desc": "Large-format pans for meat, stews, and bulk cooking."
+          },
+          {
+            "name": "Deep Fryers",
+            "desc": "Industrial fryers with filtration and auto temperature control."
+          },
+          {
+            "name": "Pressure Cookers",
+            "desc": "Large-capacity commercial pressure cooking units."
+          }
+        ]
+      },
+      {
+        "id": "bakery",
+        "title": "Bakery Equipment",
+        "items": [
+          {
+            "name": "Deck Ovens",
+            "desc": "Multi-deck stone-based ovens for bread and pastry."
+          },
+          {
+            "name": "Spiral Dough Mixers",
+            "desc": "High-capacity dough preparation for bread production."
+          },
+          {
+            "name": "Sheeting Machines",
+            "desc": "Automated dough sheeting and laminating equipment."
+          },
+          {
+            "name": "Proving Cabinets",
+            "desc": "Temperature and humidity-controlled fermentation chambers."
+          },
+          {
+            "name": "Depositors & Moulders",
+            "desc": "Automated portion-control and shaping equipment."
+          }
+        ]
+      },
+      {
+        "id": "refrigeration",
+        "title": "Refrigeration & Cold Chain",
+        "items": [
+          {
+            "name": "Walk-In Cold Rooms",
+            "desc": "Large-format cold rooms for raw materials (0–4°C)."
+          },
+          {
+            "name": "Blast Chillers",
+            "desc": "Rapid chilling from +70°C to +3°C in under 90 minutes."
+          },
+          {
+            "name": "Blast Freezers",
+            "desc": "Deep-freeze units for long-term product preservation."
+          },
+          {
+            "name": "Refrigerated Display Units",
+            "desc": "Service-ready cold display for buffet and distribution."
+          },
+          {
+            "name": "Temperature Monitoring",
+            "desc": "24/7 IoT-based temperature logging across all cold zones."
+          }
+        ]
+      },
+      {
+        "id": "buffet",
+        "title": "Buffet & Service Equipment",
+        "items": [
+          {
+            "name": "Chafing Dishes",
+            "desc": "Stainless steel electric and gel-fuel chafing systems."
+          },
+          {
+            "name": "Bain-Marie Units",
+            "desc": "Electric heated display for hot-holding and service."
+          },
+          {
+            "name": "Insulated Transport Containers",
+            "desc": "GN-compatible insulated food transport carts."
+          },
+          {
+            "name": "Service Counters",
+            "desc": "Modular stainless buffet counters for event and institutional service."
+          }
+        ]
+      },
+      {
+        "id": "infrastructure",
+        "title": "Stainless Infrastructure",
+        "items": [
+          {
+            "name": "Work Benches & Preparation Tables",
+            "desc": "Grade 316 stainless steel preparation surfaces throughout."
+          },
+          {
+            "name": "Shelving Systems",
+            "desc": "Wall-mounted and freestanding stainless storage."
+          },
+          {
+            "name": "Pot Wash & Dishwash",
+            "desc": "Industrial rack and tunnel dishwashers."
+          },
+          {
+            "name": "Exhaust Canopies",
+            "desc": "High-extraction ventilation above all cooking stations."
+          },
+          {
+            "name": "Floor Drainage",
+            "desc": "Stainless channel drainage systems throughout all production zones."
+          }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "sectionLabel": "Our Work",
+    "headline": "Facility. Operations. Output.",
+    "subheadline": "A visual record of our infrastructure, production process, and catering operations.",
+    "viewAll": "View Full Gallery",
+    "categories": [
+      "All",
+      "Facility",
+      "Production",
+      "Catering",
+      "Events",
+      "Delivery"
+    ]
+  },
+  "contact": {
+    "sectionLabel": "Get In Touch",
+    "headline": "Start a Conversation",
+    "subheadline": "Whether you need a proposal, a site visit, or just have a question — our team is ready to respond within 24 hours.",
+    "info": {
+      "phone": "+966 XX XXX XXXX",
+      "email": "info@elitehorizoncatering.com",
+      "whatsapp": "+966 XX XXX XXXX",
+      "address": "Makkah, Kingdom of Saudi Arabia"
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "company": "Company / Organization",
+      "companyPlaceholder": "Your organization name",
+      "sector": "Sector",
+      "sectorPlaceholder": "Select your sector",
+      "serviceType": "Service Required",
+      "serviceTypePlaceholder": "Select service type",
+      "whatsapp": "WhatsApp Number",
+      "whatsappPlaceholder": "+966 XX XXX XXXX",
+      "message": "Message",
+      "messagePlaceholder": "Describe your catering requirements, volume, location, and timeline...",
+      "submit": "Send Inquiry",
+      "submitting": "Sending...",
+      "success": "Thank you! We will contact you within 24 hours.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "sectors": [
+        "Hajj & Umrah",
+        "Hotels & Hospitality",
+        "Healthcare",
+        "Education",
+        "Industrial & Remote",
+        "Events & Functions",
+        "Charity Programs",
+        "Military & Camps",
+        "Other"
+      ],
+      "serviceTypes": [
+        "Mass Catering",
+        "Healthy & Diet Meals",
+        "Bakery & Desserts",
+        "Consulting",
+        "Food Technology",
+        "Full Catering Contract",
+        "Other"
+      ]
+    },
+    "whatsappBtn": "Chat on WhatsApp",
+    "callBtn": "Call Us Now",
+    "emailBtn": "Send Email",
+    "inquiryTitle": "Submit an Inquiry",
+    "inquiryDesc": "Complete the form below and our team will respond within 24 hours with a tailored proposal.",
+    "infoTitle": "Contact Information",
+    "responseTimeLabel": "Response Time",
+    "responseTimeValue": "Within 24 hours",
+    "mapLocation": "Makkah, Saudi Arabia",
+    "mapAvailable": "Map integration available"
+  },
+  "footer": {
+    "description": "Elite Horizon Catering is a large-scale integrated catering and central kitchen group headquartered in Makkah, Saudi Arabia — serving institutions, hospitality, Hajj & Umrah, and industrial sectors.",
+    "links": {
+      "company": "Company",
+      "services": "Services",
+      "sectors": "Sectors",
+      "legal": "Legal"
+    },
+    "copyright": "© 2024 Elite Horizon Catering. All rights reserved.",
+    "location": "Makkah, Kingdom of Saudi Arabia"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "requestProposal": "Request Proposal",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "perDay": "per day",
+    "makkahSaudi": "Makkah, Saudi Arabia"
+  }
+}
