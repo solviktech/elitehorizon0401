@@ -1,6 +1,11 @@
 const DEFAULT_SITE_URL = 'https://elitehorizoncatering.com';
 
-export const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+const repoBasePath =
+  process.env.STATIC_EXPORT === 'true'
+    ? `/${process.env.GITHUB_REPOSITORY?.split('/')[1] || 'elitehorizon0401'}`
+    : '';
+
+export const basePath = process.env.NEXT_PUBLIC_BASE_PATH || repoBasePath;
 
 export function withBasePath(path: string) {
   if (!path.startsWith('/')) {
