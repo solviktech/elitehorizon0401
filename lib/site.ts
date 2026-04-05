@@ -5,7 +5,7 @@ const repoBasePath =
     ? `/${process.env.GITHUB_REPOSITORY?.split('/')[1] || 'elitehorizon0401'}`
     : '';
 
-export const basePath = process.env.NEXT_PUBLIC_BASE_PATH || repoBasePath;
+export const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? repoBasePath;
 
 export function withBasePath(path: string) {
   if (!path.startsWith('/')) {
