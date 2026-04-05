@@ -5,11 +5,23 @@ import {
   Calendar, Heart, Tent, AlertTriangle, Lightbulb
 } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { withBasePath } from '@/lib/site';
 import SectionWrapper from '@/components/shared/SectionWrapper';
+import PlaceholderImage from '@/components/shared/PlaceholderImage';
 import ContactCTA from '@/components/home/ContactCTA';
 import clsx from 'clsx';
 
 const sectorIcons = [Star, Hotel, HeartPulse, GraduationCap, Factory, Calendar, Heart, Tent];
+const sectorImages = [
+  '/assets/images/sectors/hajj-umrah-meal-distribution.jpg',
+  '/assets/images/sectors/hotel-hospitality-catering-service.jpg',
+  '/assets/images/sectors/hospital-clinical-meal-service.jpg',
+  '/assets/images/sectors/school-university-meal-program.jpg',
+  '/assets/images/sectors/industrial-site-workforce-catering.jpg',
+  '/assets/images/sectors/corporate-event-catering-function.jpg',
+  '/assets/images/sectors/charity-community-meal-distribution.jpg',
+  '/assets/images/sectors/military-remote-camp-catering.jpg',
+];
 const sectorColors = [
   { bg: 'bg-amber-500', light: 'bg-amber-50', border: 'border-amber-200', text: 'text-amber-700' },
   { bg: 'bg-blue-600', light: 'bg-blue-50', border: 'border-blue-200', text: 'text-blue-700' },
@@ -46,8 +58,15 @@ export default function SectorsPage({ params: { locale } }: SectorsPageProps) {
   return (
     <div className="pt-header">
       {/* Hero */}
-      <section className="bg-primary-dark py-20 lg:py-28" dir={rtl ? 'rtl' : 'ltr'}>
-        <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="relative bg-primary-dark py-20 lg:py-28 overflow-hidden" dir={rtl ? 'rtl' : 'ltr'}>
+        <div className="absolute inset-0 opacity-20">
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: `url(${withBasePath('/assets/images/sectors/sectors-catering-solutions-hero.jpg')})` }}
+          />
+          <div className="absolute inset-0 bg-primary-dark/70" />
+        </div>
+        <div className="relative z-10 max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-accent text-xs font-semibold uppercase tracking-[0.2em] mb-4">{t('sectionLabel')}</p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4 max-w-3xl">
             {t('headline')}
@@ -106,6 +125,12 @@ export default function SectorsPage({ params: { locale } }: SectorsPageProps) {
                   </span>
                   <h2 className="text-2xl sm:text-3xl font-bold text-primary-dark mt-1 mb-3">{item.title}</h2>
                   <p className="text-ink-muted text-sm leading-relaxed">{item.shortDesc}</p>
+                  <PlaceholderImage
+                    src={sectorImages[i]}
+                    alt={item.title}
+                    aspectRatio="aspect-[4/3]"
+                    className="rounded-2xl mt-6 shadow-lg"
+                  />
                 </div>
 
                 {/* Challenge */}

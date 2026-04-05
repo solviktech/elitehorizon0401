@@ -4,11 +4,20 @@ import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { ChevronDown, ChevronUp, Flame, Croissant, Snowflake, Coffee, Wrench } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { withBasePath } from '@/lib/site';
 import SectionWrapper from '@/components/shared/SectionWrapper';
+import PlaceholderImage from '@/components/shared/PlaceholderImage';
 import ContactCTA from '@/components/home/ContactCTA';
 import clsx from 'clsx';
 
 const categoryIcons = [Flame, Croissant, Snowflake, Coffee, Wrench];
+const categoryImages = [
+  '/assets/images/equipment/commercial-cooking-equipment-line.jpg',
+  '/assets/images/equipment/industrial-bakery-equipment-line.jpg',
+  '/assets/images/equipment/cold-chain-refrigeration-systems.jpg',
+  '/assets/images/equipment/buffet-service-equipment-setup.jpg',
+  '/assets/images/equipment/stainless-kitchen-infrastructure.jpg',
+];
 
 interface EquipmentAccordionProps {
   locale: Locale;
@@ -28,8 +37,15 @@ export default function EquipmentAccordion({ locale }: EquipmentAccordionProps) 
   return (
     <>
       {/* Hero */}
-      <section className="bg-primary-dark py-20 lg:py-28" dir={rtl ? 'rtl' : 'ltr'}>
-        <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="relative bg-primary-dark py-20 lg:py-28 overflow-hidden" dir={rtl ? 'rtl' : 'ltr'}>
+        <div className="absolute inset-0 opacity-20">
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: `url(${withBasePath('/assets/images/equipment/industrial-kitchen-equipment-hero.jpg')})` }}
+          />
+          <div className="absolute inset-0 bg-primary-dark/70" />
+        </div>
+        <div className="relative z-10 max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-accent text-xs font-semibold uppercase tracking-[0.2em] mb-4">{t('sectionLabel')}</p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-4 max-w-3xl">
             {t('headline')}
@@ -90,7 +106,15 @@ export default function EquipmentAccordion({ locale }: EquipmentAccordionProps) 
                     isOpen ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
                   )}>
                     <div className="px-6 pb-6 border-t border-surface-border">
-                      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-5">
+                      <div className="pt-5">
+                        <PlaceholderImage
+                          src={categoryImages[i]}
+                          alt={cat.title}
+                          aspectRatio="aspect-[16/9]"
+                          className="rounded-xl mb-5"
+                        />
+                      </div>
+                      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                         {cat.items.map((item, j) => (
                           <div
                             key={j}

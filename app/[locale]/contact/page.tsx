@@ -3,6 +3,7 @@ import { useTranslations } from 'next-intl';
 import { Phone, Mail, MapPin, MessageCircle, Clock } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
 import SectionWrapper from '@/components/shared/SectionWrapper';
+import PlaceholderImage from '@/components/shared/PlaceholderImage';
 import InquiryForm from '@/components/forms/InquiryForm';
 import CertificationsStrip from '@/components/home/CertificationsStrip';
 import clsx from 'clsx';
@@ -130,13 +131,12 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
 
               {/* Map placeholder */}
               <div className="bg-white rounded-2xl border border-surface-border overflow-hidden">
-                <div className="aspect-video bg-primary/5 flex items-center justify-center">
-                  <div className="text-center p-6">
-                    <MapPin size={32} className="text-accent mx-auto mb-2" />
-                    <p className="text-primary-dark font-semibold text-sm">{t('mapLocation')}</p>
-                    <p className="text-ink-muted text-xs mt-1">{t('mapAvailable')}</p>
-                  </div>
-                </div>
+                <PlaceholderImage
+                  src="/assets/images/about/makkah-central-kitchen-location-exterior.jpg"
+                  alt={t('mapLocation')}
+                  aspectRatio="aspect-video"
+                  imgClassName="object-top"
+                />
               </div>
             </div>
 

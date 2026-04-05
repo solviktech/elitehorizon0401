@@ -39,7 +39,7 @@ export default function FacilityPage({ params: { locale } }: FacilityPageProps) 
         <div className="absolute inset-0 opacity-20">
           <div
             className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: `url(${withBasePath('/assets/images/facility/central-kitchen-production-hall.jpg')})` }}
+            style={{ backgroundImage: `url(${withBasePath('/assets/images/facility/makkah-central-kitchen-facility-hero.jpg')})` }}
           />
           <div className="absolute inset-0 bg-primary-dark/70" />
         </div>
@@ -58,7 +58,7 @@ export default function FacilityPage({ params: { locale } }: FacilityPageProps) 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <p className="text-ink-muted text-lg leading-relaxed">{fp.intro}</p>
             <PlaceholderImage
-              src="/assets/images/facility/central-kitchen-production-hall.jpg"
+              src="/assets/images/facility/central-kitchen-main-production-hall.jpg"
               alt="Central Kitchen Main Hall"
               aspectRatio="aspect-video"
               className="rounded-2xl overflow-hidden shadow-xl"

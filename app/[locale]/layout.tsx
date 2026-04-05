@@ -65,7 +65,7 @@ export default async function LocaleLayout({
               "name": "Elite Horizon Catering",
               "alternateName": "مسارات النخبة للإعاشة",
               "url": siteUrl,
-              "logo": `${siteUrl}${withBasePath('/assets/images/logo.png')}`,
+              "logo": `${siteUrl}${withBasePath('/assets/images/elite-horizon-catering-logo.jpg')}`,
               "description": "Integrated catering and central kitchen solutions in Makkah, Saudi Arabia",
               "address": {
                 "@type": "PostalAddress",
