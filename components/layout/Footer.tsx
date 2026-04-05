@@ -9,6 +9,9 @@ interface FooterProps {
 
 export default function Footer({ locale }: FooterProps) {
   const t = useTranslations();
+  const phoneHref = `tel:${t('contact.info.phone').replace(/[^\d+]/g, '')}`;
+  const emailHref = `mailto:${t('contact.info.email')}`;
+  const whatsappHref = `https://wa.me/${t('contact.info.whatsapp').replace(/\D/g, '')}`;
   const rtl = isRtl(locale);
 
   const companyLinks = [
@@ -52,11 +55,11 @@ export default function Footer({ locale }: FooterProps) {
             </p>
             {/* Contact quick info */}
             <div className="space-y-2.5">
-              <a href={`tel:${t('contact.info.phone')}`} className="flex items-center gap-2.5 text-white/60 hover:text-accent transition-colors text-sm">
+              <a href={phoneHref} className="flex items-center gap-2.5 text-white/60 hover:text-accent transition-colors text-sm">
                 <Phone size={14} className="shrink-0 text-accent" />
                 <span>{t('contact.info.phone')}</span>
               </a>
-              <a href={`mailto:${t('contact.info.email')}`} className="flex items-center gap-2.5 text-white/60 hover:text-accent transition-colors text-sm">
+              <a href={emailHref} className="flex items-center gap-2.5 text-white/60 hover:text-accent transition-colors text-sm">
                 <Mail size={14} className="shrink-0 text-accent" />
                 <span>{t('contact.info.email')}</span>
               </a>
@@ -124,7 +127,7 @@ export default function Footer({ locale }: FooterProps) {
             </ul>
             {/* WhatsApp CTA */}
             <a
-              href={`https://wa.me/${t('contact.info.whatsapp').replace(/\D/g, '')}`}
+              href={whatsappHref}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-[#25D366] hover:bg-[#1fbb57] text-white text-sm font-semibold px-4 py-2.5 rounded transition-colors duration-200"

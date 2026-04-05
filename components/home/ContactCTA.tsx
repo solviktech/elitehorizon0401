@@ -13,6 +13,9 @@ export default function ContactCTA({ locale }: ContactCTAProps) {
   const t = useTranslations('contact');
   const tNav = useTranslations('nav');
   const rtl = isRtl(locale);
+  const phoneHref = `tel:${t('info.phone').replace(/[^\d+]/g, '')}`;
+  const emailHref = `mailto:${t('info.email')}`;
+  const whatsappHref = `https://wa.me/${t('info.whatsapp').replace(/\D/g, '')}`;
 
   return (
     <SectionWrapper className="bg-white py-20 lg:py-28" id="contact-cta">
@@ -45,13 +48,13 @@ export default function ContactCTA({ locale }: ContactCTAProps) {
                 <div className="space-y-3">
                   <div className={clsx('flex items-center gap-3', rtl ? 'flex-row-reverse' : '')}>
                     <Phone size={16} className="text-accent shrink-0" />
-                    <a href={`tel:${t('info.phone')}`} className="text-white/80 hover:text-white text-sm transition-colors">
+                    <a href={phoneHref} className="text-white/80 hover:text-white text-sm transition-colors">
                       {t('info.phone')}
                     </a>
                   </div>
                   <div className={clsx('flex items-center gap-3', rtl ? 'flex-row-reverse' : '')}>
                     <Mail size={16} className="text-accent shrink-0" />
-                    <a href={`mailto:${t('info.email')}`} className="text-white/80 hover:text-white text-sm transition-colors">
+                    <a href={emailHref} className="text-white/80 hover:text-white text-sm transition-colors">
                       {t('info.email')}
                     </a>
                   </div>
@@ -62,7 +65,7 @@ export default function ContactCTA({ locale }: ContactCTAProps) {
               <div className={clsx('flex flex-col gap-4', rtl ? 'items-end' : 'items-start lg:items-end')}>
                 {/* WhatsApp */}
                 <a
-                  href={`https://wa.me/${t('info.whatsapp').replace(/\D/g, '')}`}
+                  href={whatsappHref}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={clsx(
@@ -88,7 +91,7 @@ export default function ContactCTA({ locale }: ContactCTAProps) {
 
                 {/* Email */}
                 <a
-                  href={`mailto:${t('info.email')}`}
+                  href={emailHref}
                   className={clsx(
                     'inline-flex items-center gap-3 border border-white/20 text-white hover:bg-white/10 font-semibold px-6 py-3.5 rounded-xl transition-all duration-200 w-full sm:w-auto justify-center text-sm sm:text-base',
                     rtl ? 'flex-row-reverse' : ''

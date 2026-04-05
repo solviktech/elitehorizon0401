@@ -22,25 +22,28 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
 
   const t = useTranslations('contact');
   const rtl = isRtl(locale);
+  const phoneHref = `tel:${t('info.phone').replace(/[^\d+]/g, '')}`;
+  const emailHref = `mailto:${t('info.email')}`;
+  const whatsappHref = `https://wa.me/${t('info.whatsapp').replace(/\D/g, '')}`;
 
   const contactItems = [
     {
       icon: Phone,
       label: t('info.phone'),
       value: t('info.phone'),
-      href: `tel:${t('info.phone')}`,
+      href: phoneHref,
     },
     {
       icon: Mail,
       label: t('info.email'),
       value: t('info.email'),
-      href: `mailto:${t('info.email')}`,
+      href: emailHref,
     },
     {
       icon: MessageCircle,
       label: t('info.whatsapp'),
       value: t('info.whatsapp'),
-      href: `https://wa.me/${t('info.whatsapp').replace(/\D/g, '')}`,
+      href: whatsappHref,
     },
     {
       icon: MapPin,
@@ -117,7 +120,7 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
 
               {/* WhatsApp CTA */}
               <a
-                href={`https://wa.me/${t('info.whatsapp').replace(/\D/g, '')}`}
+                href={whatsappHref}
                 target="_blank"
                 rel="noopener noreferrer"
                 className={clsx(

@@ -90,9 +90,9 @@ To add more photos: name them `gallery-13.jpg`, `gallery-14.jpg`, etc., and ask 
 ```
 "contact": {
   "info": {
-    "phone": "+966 XX XXX XXXX",
-    "email": "info@elitehorizoncatering.com",
-    "whatsapp": "+966 XX XXX XXXX",
+    "phone": "+966 53 366 6850",
+    "email": "el8hzn.cater@gmail.com",
+    "whatsapp": "+966 53 366 6850",
     "address": "Makkah, Kingdom of Saudi Arabia"
   }
 }

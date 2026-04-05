@@ -67,6 +67,8 @@ export default async function LocaleLayout({
               "url": siteUrl,
               "logo": `${siteUrl}${withBasePath('/assets/images/elite-horizon-catering-logo.jpg')}`,
               "description": "Integrated catering and central kitchen solutions in Makkah, Saudi Arabia",
+              "telephone": "+966533666850",
+              "email": "el8hzn.cater@gmail.com",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Makkah",
@@ -74,6 +76,8 @@ export default async function LocaleLayout({
               },
               "contactPoint": {
                 "@type": "ContactPoint",
+                "telephone": "+966533666850",
+                "email": "el8hzn.cater@gmail.com",
                 "contactType": "customer service",
                 "availableLanguage": ["English", "Arabic", "Urdu", "Malay", "Turkish"]
               },
