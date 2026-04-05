@@ -54,7 +54,7 @@ export default function AboutPage({ params: { locale } }: AboutPageProps) {
               </ul>
             </div>
             <PlaceholderImage
-              src="/assets/images/about/elite-horizon-facility-exterior.jpg"
+              src="/assets/images/about/makkah-central-kitchen-facility.jpg"
               alt="Elite Horizon Catering Facility"
               aspectRatio="aspect-[4/3]"
               className="rounded-2xl overflow-hidden shadow-xl"

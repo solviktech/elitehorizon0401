@@ -6,11 +6,11 @@ import PlaceholderImage from '@/components/shared/PlaceholderImage';
 
 const galleryImages = [
   { src: '/assets/images/gallery/central-kitchen-operations-floor.jpg', alt: 'Kitchen Operations', span: 'col-span-2 row-span-2' },
-  { src: '/assets/images/gallery/gallery-02.jpg', alt: 'Food Production', span: '' },
-  { src: '/assets/images/gallery/gallery-03.jpg', alt: 'Catering Service', span: '' },
-  { src: '/assets/images/gallery/gallery-04.jpg', alt: 'Cold Storage', span: '' },
-  { src: '/assets/images/gallery/gallery-05.jpg', alt: 'Bakery', span: '' },
-  { src: '/assets/images/gallery/gallery-06.jpg', alt: 'Packaging Line', span: '' },
+  { src: '/assets/images/gallery/industrial-food-production-line.jpg', alt: 'Food Production', span: '' },
+  { src: '/assets/images/gallery/hospitality-catering-service-setup.jpg', alt: 'Catering Service', span: '' },
+  { src: '/assets/images/gallery/cold-chain-storage-facility.jpg', alt: 'Cold Storage', span: '' },
+  { src: '/assets/images/gallery/commercial-bakery-production-line.jpg', alt: 'Bakery', span: '' },
+  { src: '/assets/images/gallery/meal-packaging-assembly-line.jpg', alt: 'Packaging Line', span: '' },
 ];
 
 interface GalleryPreviewProps {
