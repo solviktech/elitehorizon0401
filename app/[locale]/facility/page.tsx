@@ -2,6 +2,7 @@ import { getTranslations, unstable_setRequestLocale as setRequestLocale } from '
 import { useTranslations } from 'next-intl';
 import { ChefHat, Thermometer, Package, FlaskConical, Truck, Building2 } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import { withBasePath } from '@/lib/site';
 import SectionWrapper from '@/components/shared/SectionWrapper';
 import SectionHeader from '@/components/shared/SectionHeader';
@@ -19,7 +20,14 @@ interface FacilityPageProps {
 
 export async function generateMetadata({ params: { locale } }: FacilityPageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.facility' });
-  return { title: t('title'), description: t('description'), keywords: t('keywords') };
+  return buildPageMetadata({
+    locale,
+    pathname: '/facility',
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    imagePath: '/assets/images/facility/makkah-central-kitchen-facility-hero.jpg',
+  });
 }
 
 export default function FacilityPage({ params: { locale } }: FacilityPageProps) {

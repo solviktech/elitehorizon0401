@@ -2,6 +2,7 @@ import { getTranslations, unstable_setRequestLocale as setRequestLocale } from '
 import { useTranslations } from 'next-intl';
 import { CheckCircle2, BookOpen, FlaskConical, UtensilsCrossed, Apple, Cake } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import SectionWrapper from '@/components/shared/SectionWrapper';
 import SectionHeader from '@/components/shared/SectionHeader';
 import PlaceholderImage from '@/components/shared/PlaceholderImage';
@@ -23,7 +24,14 @@ interface ServicesPageProps {
 
 export async function generateMetadata({ params: { locale } }: ServicesPageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.services' });
-  return { title: t('title'), description: t('description'), keywords: t('keywords') };
+  return buildPageMetadata({
+    locale,
+    pathname: '/services',
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    imagePath: '/assets/images/services/mass-catering-meal-packaging-line.jpg',
+  });
 }
 
 export default function ServicesPage({ params: { locale } }: ServicesPageProps) {

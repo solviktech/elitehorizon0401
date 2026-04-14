@@ -3,15 +3,8 @@ import { locales, defaultLocale, type Locale } from './config';
 
 const isStaticExport = process.env.STATIC_EXPORT === 'true';
 
-export default getRequestConfig(async ({ locale, requestLocale }) => {
-  let resolvedLocale = locale;
-
-  if (!resolvedLocale && !isStaticExport) {
-    const requestedLocale = await requestLocale;
-    if (requestedLocale) {
-      resolvedLocale = requestedLocale;
-    }
-  }
+export default getRequestConfig(async ({ requestLocale }) => {
+  let resolvedLocale = isStaticExport ? defaultLocale : await requestLocale;
 
   if (!resolvedLocale || !locales.includes(resolvedLocale as Locale)) {
     resolvedLocale = defaultLocale;

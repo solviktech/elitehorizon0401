@@ -3,6 +3,7 @@ import { getMessages, getTranslations, unstable_setRequestLocale as setRequestLo
 import { notFound } from 'next/navigation';
 import { locales, isRtl, type Locale } from '@/i18n/config';
 import { siteUrl, withBasePath } from '@/lib/site';
+import { getLanguageAlternates, getLocalizedUrl } from '@/lib/seo';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import '../globals.css';
@@ -18,16 +19,17 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params: { locale } }: LocaleLayoutProps) {
   const t = await getTranslations({ locale, namespace: 'meta.home' });
-  const isRtlLang = isRtl(locale as Locale);
 
   return {
-    title: t('title'),
+    title: {
+      default: t('title'),
+      template: '%s',
+    },
     description: t('description'),
     keywords: t('keywords'),
     alternates: {
-      languages: Object.fromEntries(
-        locales.map((loc) => [loc, `/${loc}`])
-      ),
+      canonical: getLocalizedUrl(locale as Locale),
+      languages: getLanguageAlternates(),
     },
   };
 }
@@ -50,39 +52,48 @@ export default async function LocaleLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        {/* hreflang links */}
-        {locales.map((loc) => (
-          <link key={loc} rel="alternate" hrefLang={loc} href={`${siteUrl}${withBasePath(`/${loc}/`)}`} />
-        ))}
-        <link rel="alternate" hrefLang="x-default" href={`${siteUrl}${withBasePath('/en/')}`} />
-        {/* Organization schema */}
+        <link rel="alternate" hrefLang="x-default" href={getLocalizedUrl('en')} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              "name": "Elite Horizon Catering",
-              "alternateName": "مسارات النخبة للإعاشة",
-              "url": siteUrl,
-              "logo": `${siteUrl}${withBasePath('/assets/images/elite-horizon-catering-logo.jpg')}`,
-              "description": "Integrated catering and central kitchen solutions in Makkah, Saudi Arabia",
-              "telephone": "+966533666850",
-              "email": "el8hzn.cater@gmail.com",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Makkah",
-                "addressCountry": "SA"
-              },
-              "contactPoint": {
-                "@type": "ContactPoint",
+            __html: JSON.stringify([
+              {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "@id": `${siteUrl}#organization`,
+                "name": "Elite Horizon Catering",
+                "alternateName": "مسارات النخبة للإعاشة",
+                "url": siteUrl,
+                "logo": `${siteUrl}${withBasePath('/assets/images/elite-horizon-catering-logo.jpg')}`,
+                "description": "Integrated catering and central kitchen solutions in Makkah, Saudi Arabia",
                 "telephone": "+966533666850",
                 "email": "el8hzn.cater@gmail.com",
-                "contactType": "customer service",
-                "availableLanguage": ["English", "Arabic", "Urdu", "Malay", "Turkish"]
+                "address": {
+                  "@type": "PostalAddress",
+                  "addressLocality": "Makkah",
+                  "addressCountry": "SA"
+                },
+                "contactPoint": {
+                  "@type": "ContactPoint",
+                  "telephone": "+966533666850",
+                  "email": "el8hzn.cater@gmail.com",
+                  "contactType": "customer service",
+                  "availableLanguage": ["English", "Arabic", "Urdu", "Malay", "Turkish"]
+                },
+                "sameAs": []
               },
-              "sameAs": []
-            })
+              {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "@id": `${siteUrl}#website`,
+                "url": siteUrl,
+                "name": "Elite Horizon Catering",
+                "inLanguage": locales,
+                "publisher": {
+                  "@id": `${siteUrl}#organization`
+                }
+              }
+            ])
           }}
         />
       </head>

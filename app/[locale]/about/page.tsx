@@ -2,6 +2,7 @@ import { getTranslations, unstable_setRequestLocale as setRequestLocale } from '
 import { useTranslations } from 'next-intl';
 import { CheckCircle2, Target, Eye, Award } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import SectionWrapper from '@/components/shared/SectionWrapper';
 import SectionHeader from '@/components/shared/SectionHeader';
 import PlaceholderImage from '@/components/shared/PlaceholderImage';
@@ -14,7 +15,14 @@ interface AboutPageProps {
 
 export async function generateMetadata({ params: { locale } }: AboutPageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.about' });
-  return { title: t('title'), description: t('description'), keywords: t('keywords') };
+  return buildPageMetadata({
+    locale,
+    pathname: '/about',
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    imagePath: '/assets/images/about/makkah-central-kitchen-facility.jpg',
+  });
 }
 
 export default function AboutPage({ params: { locale } }: AboutPageProps) {
