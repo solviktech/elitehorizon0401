@@ -5,6 +5,7 @@ import {
   Calendar, Heart, Tent, AlertTriangle, Lightbulb
 } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import { withBasePath } from '@/lib/site';
 import SectionWrapper from '@/components/shared/SectionWrapper';
 import PlaceholderImage from '@/components/shared/PlaceholderImage';
@@ -39,7 +40,14 @@ interface SectorsPageProps {
 
 export async function generateMetadata({ params: { locale } }: SectorsPageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.sectors' });
-  return { title: t('title'), description: t('description'), keywords: t('keywords') };
+  return buildPageMetadata({
+    locale,
+    pathname: '/sectors',
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    imagePath: '/assets/images/sectors/sectors-catering-solutions-hero.jpg',
+  });
 }
 
 export default function SectorsPage({ params: { locale } }: SectorsPageProps) {

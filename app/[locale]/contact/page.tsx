@@ -2,6 +2,7 @@ import { getTranslations, unstable_setRequestLocale as setRequestLocale } from '
 import { useTranslations } from 'next-intl';
 import { Phone, Mail, MapPin, MessageCircle, Clock } from 'lucide-react';
 import { type Locale, isRtl } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import SectionWrapper from '@/components/shared/SectionWrapper';
 import PlaceholderImage from '@/components/shared/PlaceholderImage';
 import InquiryForm from '@/components/forms/InquiryForm';
@@ -14,7 +15,14 @@ interface ContactPageProps {
 
 export async function generateMetadata({ params: { locale } }: ContactPageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.contact' });
-  return { title: t('title'), description: t('description'), keywords: t('keywords') };
+  return buildPageMetadata({
+    locale,
+    pathname: '/contact',
+    title: t('title'),
+    description: t('description'),
+    keywords: t('keywords'),
+    imagePath: '/assets/images/about/makkah-central-kitchen-location-exterior.jpg',
+  });
 }
 
 export default function ContactPage({ params: { locale } }: ContactPageProps) {

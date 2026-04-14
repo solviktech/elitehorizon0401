@@ -1,5 +1,6 @@
 import { getTranslations, unstable_setRequestLocale as setRequestLocale } from 'next-intl/server';
 import { type Locale } from '@/i18n/config';
+import { buildPageMetadata } from '@/lib/seo';
 import Hero from '@/components/home/Hero';
 import AboutSnapshot from '@/components/home/AboutSnapshot';
 import BusinessLines from '@/components/home/BusinessLines';
@@ -17,11 +18,13 @@ interface HomePageProps {
 
 export async function generateMetadata({ params: { locale } }: HomePageProps) {
   const t = await getTranslations({ locale, namespace: 'meta.home' });
-  return {
+  return buildPageMetadata({
+    locale,
     title: t('title'),
     description: t('description'),
     keywords: t('keywords'),
-  };
+    imagePath: '/assets/images/hero/hero-central-kitchen-main.jpg',
+  });
 }
 
 export default function HomePage({ params: { locale } }: HomePageProps) {
